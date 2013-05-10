@@ -10,15 +10,13 @@ clojure-concurrency-rich-hickey
 4. Озвучить видео на русском языке. [0%]
 
 ###Процесс перевода
-Проект доступен [онлйансеть](http://clojureby-webtools.rhcloud.com/).
+Проект доступен [онлйан](http://clojureby-webtools.rhcloud.com/).
 
-Видео: html5 тэг.
-Формат webm.
-Субтитры: track тэг.
+Видео: html5 тэг, формат webm.
+Субтитры: track тэг, формат webVTT
 
 
 На сегодняшний день [html5 субтитры](http://dev.w3.org/html5/webvtt) поддерживают: Chrome, Safari. Частично: IE, Opera. Совсем плохо: Firefox. 
-
 
 
 Чтобы не качать каждый раз видео и отвязаться от онлайна, разверните все локально:
