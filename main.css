@@ -1,0 +1,45 @@
+#video {
+	position: absolute;
+	top: 130px;
+	left: 0px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+iframe {
+	position: absolute;
+	top: 130px;
+	left: 660px;
+	height: 80%;
+	width: 40%;
+	border: 1px solid #2967A4;
+}
+a {
+	border-radius: 6px 6px 6px 6px;
+	padding: 12px 24px;
+	font-size: 1.5em;
+	border: 1px solid #2967A4;
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset, 0 1px 2px rgba(0, 0, 0, 0.2);
+	color: #FFFFFF;
+	text-decoration: none;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
+}
+.youtube {
+	background-color: #880904;
+	background: -moz-linear-gradient(center top , #880904 0%, #682137 100%);
+	background: -webkit-linear-gradient(top, #880904 0%, #682137 100%);
+	background-repeat: repeat-x;
+}
+.github {
+	background-color: #3072B3;
+	background: -moz-linear-gradient(center top , #599BDC 0%, #3072B3 100%);
+	background: -webkit-linear-gradient(top, #599BDC 0%, #3072B3 100%);
+	background-repeat: repeat-x;
+}
+#time {
+	font-size: 1.2em;
+	position: absolute;
+	left: 10px;
+	top: 620px;
+
+}

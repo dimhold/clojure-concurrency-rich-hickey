@@ -4,43 +4,8 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>Clojure Concurrency - Rich Hickey</title>
-		<style>
-			video {
-				position: absolute;
-				top: 130px;
-				left: 0px;
-			}
-			iframe {
-				position: absolute;
-				top: 130px;
-				left: 660px;
-				height: 80%;
-				width: 40%;
-				border: 1px solid #2967A4;
-			}
-			a {
-				border-radius: 6px 6px 6px 6px;
-				padding: 12px 24px;
-				font-size: 1.5em;
-				border: 1px solid #2967A4;
-				box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1) inset, 0 1px 2px rgba(0, 0, 0, 0.2);
-				color: #FFFFFF;
-				text-decoration: none;
-				text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
-			}
-			.youtube {
-				background-color: #880904;
-				background: -moz-linear-gradient(center top , #880904 0%, #682137 100%);
-				background: -webkit-linear-gradient(top, #880904 0%, #682137 100%);
-				background-repeat: repeat-x;
-			}
-			.github {
-				background-color: #3072B3;
-				background: -moz-linear-gradient(center top , #599BDC 0%, #3072B3 100%);
-				background: -webkit-linear-gradient(top, #599BDC 0%, #3072B3 100%);
-				background-repeat: repeat-x;
-			}
-		</style>
+		<link href="main.css" rel="stylesheet" type="text/css"/>
+		<script src="main.js" type="text/javascript" charset="utf-8"></script>
 	</head>
 	<body>
 		<header>
@@ -48,11 +13,12 @@
 			<a class="youtube" href="http://youtu.be/dGVqrGmwOAw">Youtube</a>
 			<a class="github" href="https://github.com/dimhold/clojure-concurrency-rich-hickey">Github</a>
 		</header>
-		<video controls>
+		<video id="video" controls>
 			<source type="video/webm" src="http://clojureby-webtools.rhcloud.com/concurrency.webm" />
 			<track kind="subtitles" src="http://clojureby-webtools.rhcloud.com/concurrency.vtt" srclang="en" />
 			<track kind="subtitles" src="http://clojureby-webtools.rhcloud.com/concurrency-ru.vtt" srclang="ru" />
 		</video>
 		<iframe src="http://clojureby-webtools.rhcloud.com/concurrency.vtt"></iframe>
+		<div id="time">00:00:000</div>
 	</body>
 </html>
