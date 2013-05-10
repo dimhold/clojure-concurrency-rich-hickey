@@ -15,13 +15,15 @@ function timeToStr(time) {
 	var minute = Math.floor(time / 60 % 60);
 	var hour = Math.floor(time / 3600);
 
-	var time = "";
+	time = "";
 	if (hour) {
 		if (hour < 10) {
 			time += "0" + hour + ":";
 		} else {
 			time += hour + ":";
 		}
+	} else {
+		time += "00:";
 	}
 
 	if (minute < 10) {
@@ -31,12 +33,12 @@ function timeToStr(time) {
 	}
 
 	if (second < 10) {
-		time += "0" + second + ":";
+		time += "0" + second + ".";
 	} else {
-		time += second + ":";
+		time += second + ".";
 	}
 
-	time += milsec
+	time += milsec;
 
 	return time;
 };
