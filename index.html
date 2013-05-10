@@ -48,13 +48,45 @@
 				left: 10px;
 				top: 620px;
 			}
+			#freeze {
+				position: absolute;
+				left: 120px;
+				top: 620px;
+				height: 40px;
+				width: 100px;
+				font-size: 1.2em;
+			}
+			#log {
+				font-size: 1em;
+				position: absolute;
+				left: 10px;
+				top: 700px;
+			}
+			.log0 {
+				color: blue;
+			}
+			.log1 {
+				color: black;
+			}
+
 		</style>
+
 		<script type="text/javascript">
 			window.onload = main;
 
 			function main() {
 				var video = document.getElementById("video");
 				var time = document.getElementById("time");
+				var log = document.getElementById("log");
+				var freeze  = document.getElementById("freeze");
+				var clickCount = 0;
+
+
+				freeze.addEventListener("click", function () {
+						clickCount++;
+						var html = "<div class='" + "log" + clickCount % 2 + "'>" +  timeToStr(video.currentTime) + "</div><hr/>"; 
+						log.innerHTML = html + log.innerHTML;
+				});
 
 				video.addEventListener("timeupdate", function (e) {
 					time.innerHTML = timeToStr(video.currentTime);
@@ -107,6 +139,7 @@
 			<track kind="subtitles" src="concurrency.vtt" srclang="en" />
 		</video>
 		<iframe src="http://clojureby-webtools.rhcloud.com/concurrency.vtt"></iframe>
-		<div id="time">00:00:00.000</div>
+		<div id="time">00:00:00.000</div><button id="freeze">Freeze</button>
+		<div id="log"></div>
 	</body>
 </html>
