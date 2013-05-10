@@ -1,10 +1,26 @@
 WEBVTT
 
 1
-00:00:00.715 --> 00:01:17.186
-Webvtt is work
+00:00:01.875 --> 00:00:02.186
+Hi!
 
 2
-00:01:17.556 --> 00:01:20.631
-The end!
+00:00:04.015 --> 00:00:04.368
+Welcome
+
+3
+00:05:440 --> 00:06:575
+Thank you all for waiting
+
+4
+00:08:042 --> 00:10:178
+My name is Rich Hickey and I'm here to talk about 
+
+5
+00:11:211 --> 00:11:812
+Clojure
+
+6
+00:12:00 --> 00:13:648
+Program language
 
