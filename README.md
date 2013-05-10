@@ -11,12 +11,20 @@ clojure-concurrency-rich-hickey
 
 ###Процесс перевода
 На [Сайте перевода](http://clojureby-webtools.rhcloud.com/) выложено видео. Там удобно засекать отметки времени.
-Видео: html5 тэг. Формат webm. Субтитры: track тэг.
+
+Видео: html5 тэг.
+Формат webm.
+Субтитры: track тэг.
+
+
 На сегодняшний день [html5 субтитры](http://dev.w3.org/html5/webvtt) поддерживают: Chrome, Safari. Частично: IE, Opera. Совсем плохо: Firefox. 
 
 
-Чтобы не качать каждый раз видео, вы можете разместить его у себя локально:
+Чтобы не качать каждый раз видео и отвязаться от онлайна, разверните все локально:
 
-`cd /tmp`
-`wget http://clojureby-webtools.rhcloud.com/concurrency.webm`
+git clone git@github.com:dimhold/clojure-concurrency-rich-hickey.git
+cd clojure-concurrency-rich-hickey
+wget http://clojureby-webtools.rhcloud.com/concurrency.webm
 
+
+Правда, локально поломается track тэг. Chrome напишет в консоль: Cross-origin text track load denied by Cross-Origin Resource Sharing policy. И откажется показывать субтитры. 
