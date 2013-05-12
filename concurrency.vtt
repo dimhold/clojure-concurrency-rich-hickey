@@ -59,7 +59,7 @@ And than look at some code
 15
 --> 00:01:13.097
 Hopefully more apartunity looking to syntatic in clojure. And feature 
-Lookead at this programm. We will thinks in the action.
+Lookead at this programm. We will this thinks in the action.
 
 16
 00:01:14.141 --> 00:01:15.909
@@ -75,7 +75,7 @@ What happens when we get to a multi-threading context and specifically what a so
 
 19
 00:01:38.016 --> 00:01:39.016
-You know, lockers in particular.
+You know, for lockers in particular.
 
 20
 00:01:41.969 --> 00:01:43.136
@@ -85,7 +85,7 @@ That somethink are done a lot of over a long period of time.
 And, I'm 
 
 22
---> 00:01:50.435
+00:01:49.435 --> 00:01:50.435
 We got it a simply far to difficult
 
 23
@@ -93,15 +93,32 @@ We got it a simply far to difficult
 tern wat a clojure does.
 
 24
+00:02:20.157 --> 00:02:24.852
 And cool little ant simulation with multi-threading graphic components
 hard to correctly almost common languages
 
 25
 So, I'm soft developed
 
+
+28
+and machine listenting software
+worked an C++, C#, java, Mathematic, python.
+
+common lisp or scheme
+
+java, C#
+
+eml or haskel? Just a cuply.
+
 26
 python, ruby, groovy
 
-27
+Clojure
+
+And an 27
 How an multi-threading programming?
 
+So about a hafe.
+
+Great!
