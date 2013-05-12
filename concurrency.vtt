@@ -30,11 +30,11 @@ I developed to solve a number of problems
 
 8
 00:00:17.300 --> 00:00:22.852
-One of wich was organize cocnorent programs easily
+One of which was [organized?] concurrent programs easily
 
 9
 00:00:24.500 --> 00:00:37.485
-So, tonight, talking has a be a general review of clojure and specific look at some of the correny support let sponsed by a language
+So, tonight, talks is gone a be a general review of clojure and specific look at some of the concurrency that sponsed by a language
 
 10
 00:00:38.000 --> 00:00:37.485
@@ -47,7 +47,7 @@ But on of them really would like to do tonight is look at peace of software writ
 
 12
 00:00:46.046 --> 00:00:53.486
-And so I'd likked, hopefully,  
+And so I'd likked, hopefully, if we 
 
 
 Get Will true my slides , so it ideas 
@@ -60,7 +60,7 @@ Lookead at this programm. We will thinks in the action.
 
 16
 00:01:14.141 --> 00:01:15.909
-So, Quick feature tutorial
+So, quick feature tutorial
 
 17
 00:01:17.044 --> 00:01:25.385
@@ -68,7 +68,7 @@ Then I will setup so a problem space in particular talk about shared state. How 
 
 18
 00:01:25.385 --> 00:01:36.263
-What happens when we get a multi-threading context and specifically what a some current solution for that in all spaces. 
+What happens when we get a multi-threading context and specifically what a some the current solution for that in all spaces. 
 
 19
 You know, lockers in particular.
@@ -82,6 +82,15 @@ And, I'm
 We got it a simply far to difficult
 
 00:03:43.89
+tern wat a clojure does.
+
+And cool little simulation...
+hard to correctly...
+
+
+
+So, I'm soft developed
+
 python, ruby, groovy
 
 How an multi-threading programming?
