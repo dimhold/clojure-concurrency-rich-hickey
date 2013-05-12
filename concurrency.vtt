@@ -25,7 +25,7 @@ Clojure
 It's a program language
 
 7
-00:00:14.000 --> 00:00:16.648
+00:00:14.000 --> 00:00:17.000
 I developed to solve a number of problems
 
 8
@@ -34,7 +34,7 @@ One of which was [organized?] concurrent programs easily
 
 9
 00:00:24.500 --> 00:00:37.485
-So, tonight, talks is gone a be so a general review of clojure and specific look at some of the concurrency support that sponsed by a language
+So, tonight, talks is gone a be so a general review of clojure and specific look at some of the concurrency support that sponsed by a language.
 
 10
 00:00:38.000 --> 00:00:37.485
@@ -47,14 +47,14 @@ But on of them really would like to do tonight is look at peace software written
 
 12
 00:00:46.046 --> 00:00:53.486
-And so I'd liked, hopefully, if I can we move a good pace.
+And so, I'd liked, hopefully, if I can move a good pace.
 
 13
 Get Will true my slides , so an ideas 
 show an you behind I will show an your
 
 14
-And look at some code 
+And than look at some code 
 
 15
 --> 00:01:13.097
@@ -70,10 +70,11 @@ So, quick feature tutorial.
 Then [I will] setup so a problem space in particular talk about shared state. How is doing today? How is doing in C#, Java, C++?
 
 18
-00:01:25.385 --> 00:01:36.263
+00:01:25.385 --> 00:01:37.663
 What happens when we get to a multi-threading context and specifically what a some the current solution for that in all spaces. 
 
 19
+00:01:38.016 --> 00:01:39.016
 You know, lockers in particular.
 
 20
