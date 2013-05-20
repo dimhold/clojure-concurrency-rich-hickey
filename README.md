@@ -34,4 +34,4 @@ Chrome напишет в консоль: Cross-origin text track load denied by 
 
 Вы можете сделать fork проекта. Внесите правки и дополнения (скорее всего это будут *.vtt файлы). А затем прислать Pull Request.
 
-Или просто свяжитесь со мной. Мой email (такой и же xmpp) указан в моем [github профиле: https://github.com/dimhold](https://github.com/dimhold)
+Или просто свяжитесь со мной. Мой email (такой же и xmpp) указан в моем [github профиле: https://github.com/dimhold](https://github.com/dimhold)
