@@ -30,20 +30,20 @@ I developed to solve a number of problems
 
 8
 00:00:17.300 --> 00:00:22.852
-One of which was [organized?] concurrent programs easily
+One of which was how to write concurrent programs easily
 
 9
 00:00:24.500 --> 00:00:37.485
-So, tonight, talks is gone a be so a general review of clojure and specific look at some of the concurrency support that sponsed by a language.
+So, tonight, talks is gone a be so a general review of clojure and specific look at some of the concurrency support that sponsed to a language.
 
 10
-00:00:38.000 --> 00:00:37.485
-So, I gonna siricly introduction
+00:00:38.000 --> 00:00:41.000
+So, I gonna [circle???] introduction
 
 11
 00:00:41.141 --> 00:00:50.000
 As I say I give a quick tutorial of the features
-But on of them really would like to do tonight is look at peace software written in clojure.
+But on of them really would like to do tonight is look at peaces software written in clojure.
 
 12
 00:00:46.046 --> 00:00:53.486
@@ -51,16 +51,16 @@ And so, I'd liked, hopefully, if I can move a good pace.
 
 13
 00:00:56.523 --> 00:01:01.361
-Get Will true my slides , so an ideas 
-show an you behind I will show an your
+Get [thru ?] my slides, and so an ideas behind what I gonna be showing you 
 
 14
-And than look at some code 
+00:01:02.000 --> 00:01:11.361
+And than look at some code. Hopefully more apartunity looking to the syntax of clojure. And feature 
+Lookead at this programm.
 
 15
---> 00:01:13.097
-Hopefully more apartunity looking to syntatic in clojure. And feature 
-Lookead at this programm. We will this thinks in the action.
+00:01:11.361 --> 00:01:13.097
+Will see [this thinks ?] in the action.
 
 16
 00:01:14.141 --> 00:01:15.909
@@ -83,15 +83,18 @@ You know, locken in particular.
 That somethink are done a lot of over a long period of time.
 
 21
-And, I'm tied 
+00:01:43.500 --> 00:01:48.000
+And, I'm tied
 
 22
 00:01:49.435 --> 00:01:50.435
-We got it a simply far to difficult
+We got it a simply far to difficult. [?????]
 
 23
 00:03:43.89
-And tern what a clojure does. Tryin solve the problem ... transaction is a feature of a clojure.
+And [tern ?] looking what a clojure does. Try solve the problem number of differnet ways... transaction is a feature of a clojure.
+
+-------
 
 24
 00:02:20.157 --> 00:02:24.852
