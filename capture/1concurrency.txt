@@ -1,0 +1,3596 @@
+000m 00s --> 000m 05s
+hi welcome a thank you for waiting um my name is Ricky and I'm here to talk about
+
+000m 15s --> 000m 20s
+saw the number from one of which was how to write concurring
+
+000m 20s --> 000m 25s
+programs in the way of soda
+
+000m 30s --> 000m 35s
+cat some of the concurrency to Fort Worth
+
+000m 45s --> 000m 50s
+is look at a PC software written closer and so I
+
+000m 50s --> 000m 55s
+uh I'd like hopefully I can move it a good pace
+
+001m 00s --> 001m 05s
+showing you and then look at some coding hopefully we'll have more opportunity to look into it
+
+001m 05s --> 001m 10s
+closure and service of features were looking at this program uh
+
+001m 15s --> 001m 20s
+uh then I'm going to set up for the problem space in particular
+
+001m 20s --> 001m 25s
+about your state how are you today how you doing in the shop Java
+
+001m 30s --> 001m 35s
+text and Pacific Lee what is the sum of the car in solution for that in those
+
+001m 35s --> 001m 40s
+locking vertical a um that's something I've done a lot of
+
+001m 45s --> 001m 50s
+because it fits Assembly of artifical
+
+001m 50s --> 001m 55s
+so of innocence run in there uh and
+
+002m 00s --> 002m 05s
+try to solve this problem the number different ways the restaurant Jacksonville
+
+002m 05s --> 002m 10s
+pictures of closer um and then we'll do the walkthrough look it up
+
+002m 15s --> 002m 20s
+the components in for that would generally be hot hard to do correctly
+
+002m 20s --> 002m 25s
+I'm off the common languages and I hope it wasn't a question question
+
+002m 30s --> 002m 35s
+early going but at any point you have a question they suck
+
+002m 35s --> 002m 40s
+uh so I'm a talking about for the things scheduling
+
+002m 45s --> 002m 50s
+uh election protection systems and machine listening
+
+002m 50s --> 002m 55s
+software architect uh and specialize in
+
+003m 00s --> 003m 05s
+like that I work in Los Angelas the sharp
+
+003m 05s --> 003m 10s
+platica con list uh iPhone
+
+003m 15s --> 003m 20s
+Kylie of where you're at so I know what not to bother with what you
+
+003m 25s --> 003m 30s
+war game about half
+
+003m 35s --> 003m 40s
+thank everybody does that anybody with any an hour half
+
+003m 45s --> 003m 50s
+Python Ruby groovy okay how about closer
+
+003m 50s --> 003m 55s
+when using a try in closer couple of people in the room okay that's neat
+
+004m 00s --> 004m 05s
+half so those are the people who grown in a knowledge mint
+
+004m 05s --> 004m 10s
+place a great the Greater Lansing
+
+004m 15s --> 004m 20s
+end of the few people here who have that will be the one not in an egg knowledge
+
+004m 20s --> 004m 25s
+some of us I think of when will you come to closing I'll see it
+
+004m 30s --> 004m 35s
+um but I got people coming closer from FEMA never use Java
+
+004m 35s --> 004m 40s
+what's the word put it in water what is Java
+
+004m 45s --> 004m 50s
+you're from Java who wrote what is less for all the presents is everything else is
+
+004m 50s --> 004m 55s
+is many people coming from and I'll have to look what time you figure
+
+005m 00s --> 005m 05s
+uh but a lot of closures inspired particular buy a house
+
+005m 05s --> 005m 10s
+NNN ello ello also it's a definite thing and for tonight
+
+005m 15s --> 005m 20s
+what clothes are kind of place in the same space as possible Ruben grooving a dynamic
+
+005m 20s --> 005m 25s
+language uh the successful I think of
+
+005m 30s --> 005m 35s
+this is useful in any context in which you jizz Java not just for something like
+
+005m 35s --> 005m 40s
+problem fundamentals of closure
+
+005m 45s --> 005m 50s
+programming in the inlet set or steam and you can move the bike invented
+
+005m 50s --> 005m 55s
+work good habit of a closure is functional for like the way I melt function
+
+006m 00s --> 006m 05s
+structures are immutable um and that has a lot of
+
+006m 05s --> 006m 10s
+value to program other than a particular value when we talk about
+
+006m 15s --> 006m 20s
+so its functional as a mutable persistent instructions I'll explain what data Circle
+
+006m 20s --> 006m 25s
+this is a little later uh no mutable local variable 02 true
+
+006m 30s --> 006m 35s
+it's much more functional than most lift um probably the most functional
+
+006m 40s --> 006m 45s
+I'm left uh oh and uh and I would say a characteristic of a list
+
+006m 50s --> 006m 55s
+um that there's a reader that the language is the final terms of the
+
+007m 00s --> 007m 05s
+Asin sex for you know a grammar with characters and closures list
+
+007m 05s --> 007m 10s
+NFS what is a many other ways it does have friends season of succession
+
+007m 15s --> 007m 20s
+not common with first name I'm not going to have enough time in tonight I thought
+
+007m 20s --> 007m 25s
+how to draw a lot of contrast the one thing I would say is when I get people coming to closer
+
+007m 30s --> 007m 35s
+play too I'm not supposed to say you're going to look at things are you using the same name
+
+007m 35s --> 007m 40s
+office in Texas for different meanings almost opposite meaning
+
+007m 45s --> 007m 50s
+other reasons why I use the names I do one of the reasons is the wrong with
+
+007m 50s --> 007m 55s
+pretty good thing they have to me what time it was so they need for ever never never
+
+008m 00s --> 008m 05s
+they have a code because it looks interesting friends around the Sun
+
+008m 05s --> 008m 10s
+bird uh take a step back maybe what you're supposed to be correct if it really
+
+008m 15s --> 008m 20s
+where is not coming with us email is no backwards compatibility with those things it makes no
+
+008m 20s --> 008m 25s
+Papa's I'm so brain total of the new list
+
+008m 30s --> 008m 35s
+the rationale part of this talk so I can get the concurrency things but uh I believe
+
+008m 35s --> 008m 40s
+important for new languages to embrace a platform like dot net worth this area
+
+008m 45s --> 008m 50s
+everything the same openings database talking about soccer
+
+008m 50s --> 008m 55s
+is no reason to do that languages in the library is a girlfriend look like
+
+009m 00s --> 009m 05s
+the fair to say what's up a job
+
+009m 05s --> 009m 10s
+Hughes library of there a fix that though that matter
+
+009m 15s --> 009m 20s
+with that are hosted for the fun see in that you're
+
+009m 20s --> 009m 25s
+posting language shares a memory model in the garbage collector with your ####
+
+009m 30s --> 009m 35s
+essentially a now a really nice and you'll see the closer
+
+009m 35s --> 009m 40s
+Residence JBR in a bike directions Lee quite offensive way uh and
+
+009m 45s --> 009m 50s
+functional programming left a big house on Java in the 4th is
+
+009m 50s --> 009m 55s
+a confederacy direct support for concurrency for this for conspiracy and it is
+
+010m 00s --> 010m 05s
+instructions of life blast off closer that is open source in
+
+010m 05s --> 010m 10s
+full downloadable version uh you can park
+
+010m 15s --> 010m 20s
+I forgot to quickly do mostly in Newark
+
+010m 20s --> 010m 25s
+the closer uh briefly before we go again
+
+010m 30s --> 010m 35s
+I has a reader in particular closure is not interpreted
+
+010m 35s --> 010m 40s
+old is compiled everything you enter the value weighted by a closer is compiled
+
+010m 45s --> 010m 50s
+um there's no interpreter in closer uh has all of it
+
+010m 50s --> 010m 55s
+primitive number is arbitrary precision injectors Easter for Less ratio
+
+011m 00s --> 011m 05s
+rings of symbols to words as Red Sox liberals and some other things like that
+
+011m 05s --> 011m 10s
+um in addition closer has a set of aggregates has a class
+
+011m 15s --> 011m 20s
+difference being that there a guaranteed a mutable persistence
+
+011m 20s --> 011m 25s
+no set car a reply karo anything like that
+
+011m 30s --> 011m 35s
+as with Arin list set up too fast uh
+
+011m 35s --> 011m 40s
+which means it mass are readable does the reader syntax for the spring
+
+011m 45s --> 011m 50s
+are a persistent immutable I go to talk about a lil bit
+
+011m 50s --> 011m 55s
+pull all of the data types in clothes are represented by attractions there are in
+
+012m 00s --> 012m 05s
+additionally of a whole library around consoles about it hard wife
+
+012m 05s --> 012m 10s
+consoles and the new MINI Cooper for a street bike on with the ability to them
+
+012m 15s --> 012m 20s
+of the District of the fun by interfaces in all of this useful library
+
+012m 20s --> 012m 25s
+is the final terms of attractions out of sorts of countries think of
+
+012m 30s --> 012m 35s
+logical thing called the sequence and the secret society Portland
+
+012m 35s --> 012m 40s
+data types of strings of all the Java Collections a fifth
+
+012m 45s --> 012m 50s
+not a list a closer to 14
+
+012m 50s --> 012m 55s
+edited as a first class in to see the new the bility do so she related data with the data
+
+013m 00s --> 013m 05s
+contain 1234 there any cool but this sector can have a piece of data that says
+
+013m 10s --> 013m 15s
+on the road outside and the there is cool the values are equal
+
+013m 20s --> 013m 25s
+68 issues but you can use in your own programs to check sources like I just a free
+
+013m 30s --> 013m 35s
+things that are not really part of their value probably are about the data
+
+013m 35s --> 013m 40s
+meditative mean does the recommended that support for all of the interesting data structures
+
+013m 45s --> 013m 50s
+closest to the unique and have a minute I had to take a list
+
+013m 50s --> 013m 55s
+function for first class data types closures a it has a
+
+014m 00s --> 014m 05s
+optimization enough because the JVM doesn't and closer
+
+014m 05s --> 014m 10s
+uses the JVM calling architecture of both for performance
+
+014m 15s --> 014m 20s
+All Seasons Java stack um but that the B side of that is that I can
+
+014m 20s --> 014m 25s
+do calculus vision as in steam which means I can offer a
+
+014m 30s --> 014m 35s
+also a closer has the first class functional live in construct
+
+014m 35s --> 014m 40s
+cursive and is functional and feels exactly like you would do without walls
+
+014m 45s --> 014m 50s
+JVM and if it's quite pretty I think um
+
+014m 50s --> 014m 55s
+so how's that I have an extensive destruction binding system nothing
+
+015m 00s --> 015m 05s
+Woodbine variable it was the name of that you cannot put in Berryville
+
+015m 05s --> 015m 10s
+putting things look like data structures that mirror the data structure of your getting past
+
+015m 15s --> 015m 20s
+call the structuring in college Valvoline macros system and as a
+
+015m 20s --> 015m 25s
+pantalones function called the structuring find a
+
+015m 30s --> 015m 35s
+and loop which means that all those concerts candy store for the Rogers
+
+015m 35s --> 015m 40s
+very interesting things including sequences generally and the maps
+
+015m 45s --> 015m 50s
+if you have pattern matching undies in this is half of that
+
+015m 50s --> 015m 55s
+whats up the part that I do about that I don't like with this is conditional
+
+016m 00s --> 016m 05s
+44 uh it has not gross and they're coming with by macro
+
+016m 05s --> 016m 10s
+Bobo closer is a list what a physically there a Arizona
+
+016m 15s --> 016m 20s
+what we are without having hygienic macros without have been a disaster that's why club
+
+016m 20s --> 016m 25s
+a list two separate newspaper function of what is up with this is a
+
+016m 30s --> 016m 35s
+new faces with clothes are done so you can segment your name is in a sec
+
+016m 35s --> 016m 40s
+the other thing that you need to solve this problem by having for public
+
+016m 45s --> 016m 50s
+symbols and variables in in time
+
+016m 50s --> 016m 55s
+what's the score unified field theory to read the Christmas day to self
+
+017m 00s --> 017m 05s
+bulls and symbols are just double doors of this is it called bars in
+
+017m 05s --> 017m 10s
+does your eye twitch compilation will find given the symbol varta with your car
+
+017m 15s --> 017m 20s
+file macros uh and there for the love of power
+
+017m 20s --> 017m 25s
+what are Charlie powerful because you're right little program form what is the code
+
+017m 30s --> 017m 35s
+who is this is the way of doing polymorphism up without any her to a
+
+017m 35s --> 017m 40s
+the complete general sense leave a function in a text argument
+
+017m 45s --> 017m 50s
+depends on the type to compose the tenant values of the argument serving Arbor trail way to do
+
+017m 50s --> 017m 55s
+batch so if you're familiar with the virtual
+
+018m 00s --> 018m 05s
+the genera close in other ways to say hi for value of
+
+018m 05s --> 018m 10s
+the argument a multi message to pick up one step further they say this message
+
+018m 15s --> 018m 20s
+value the can go after the database this is a special
+
+018m 20s --> 018m 25s
+value dispatching happens on that it's probably impossible
+
+018m 30s --> 018m 35s
+so its pretty powerful and very flexible for the ticket because its independence
+
+018m 35s --> 018m 40s
+Paris Hill SC the divide up your of data space in tomorrow
+
+018m 45s --> 018m 50s
+program that's easy closer ankles asking for the support
+
+018m 50s --> 018m 55s
+really a lot about um or more Java
+
+019m 00s --> 019m 05s
+you can certainly call methods of any Java classes in physics classes act
+
+019m 05s --> 019m 10s
+field of Axis race traitor raise them up im anything
+
+019m 15s --> 019m 20s
+interfaces in class is this the last is it implements of those classes
+
+019m 20s --> 019m 25s
+that will fill that in the demo program the whole sequence
+
+019m 30s --> 019m 35s
+so you can write algorithms in closure that manipulate close is logical sequence
+
+019m 35s --> 019m 40s
+brothers will work on Java springs drive arrays anything to stop a collection
+
+019m 45s --> 019m 50s
+is this in going the other way where is appropriate closure data structures
+
+019m 50s --> 019m 55s
+Java interface is all the clothes Russians are coming the read only for support
+
+020m 00s --> 020m 05s
+of course in interface a closer functions are called
+
+020m 05s --> 020m 10s
+so you can just passed the right to the executor's framework to execute them in resin
+
+020m 15s --> 020m 20s
+upper bowl third federal so others a great ability to create some data for free
+
+020m 20s --> 020m 25s
+buzzer ahead of the job and have to be able to uh consumer
+
+020m 30s --> 020m 35s
+uh and much much more that has is this is a message has functional tree
+
+020m 35s --> 020m 40s
+zippers XML Ford and email inspect
+
+020m 45s --> 020m 50s
+look at the website find out more about it we'll see
+
+020m 50s --> 020m 55s
+lots of this is the program enough
+
+021m 00s --> 021m 05s
+fast okay
+
+021m 05s --> 021m 10s
+okay
+
+021m 15s --> 021m 20s
+uh which is OK cuz I was a drunken weeworld
+
+021m 20s --> 021m 25s
+run I think what is the weather in the drawer
+
+021m 30s --> 021m 35s
+definitely an active insanity uh to do
+
+021m 35s --> 021m 40s
+uh what what is the drug me too it is that I am completely convinced that
+
+021m 45s --> 021m 50s
+by the design of Java the sharp Python all the layers of the following
+
+021m 50s --> 021m 55s
+long this path is this is the very much
+
+022m 00s --> 022m 05s
+what is the wrong way to do most things um utiliser for the new spaghetti code
+
+022m 05s --> 022m 10s
+uh and by that I mean that you invest Lea with me to life
+
+022m 15s --> 022m 20s
+get rid of that calculation just means wont charge of this message
+
+022m 20s --> 022m 25s
+about the real that's the real name comes from this network is the trade of objects that
+
+022m 30s --> 022m 35s
+I'm how to get it there to test it next time um and uh
+
+022m 35s --> 022m 40s
+so its hard to understand a program where things can change after the new year
+
+022m 45s --> 022m 50s
+design I think people are driven to this because they know the systems are completely
+
+022m 50s --> 022m 55s
+intractable without your constant testing other brother question whether
+
+023m 00s --> 023m 05s
+this is a test of the bath to try to keep a running a and I think is better
+
+023m 05s --> 023m 10s
+what's the weather like you really should have this with me to bility in your program
+
+023m 15s --> 023m 20s
+easier to understand if they didn't have it
+
+023m 20s --> 023m 25s
+off and then high school is great uh I think
+
+023m 30s --> 023m 35s
+tune in providing maybe the friendliest face ever presented to
+
+023m 35s --> 023m 40s
+functional programming uh I think that's out there because you in a bit
+
+023m 45s --> 023m 50s
+do you realize well you up I'm worrying a lot less than I usually do it
+
+023m 50s --> 023m 55s
+restaurants in a I can just bravery go with him to stay to some party
+
+024m 00s --> 024m 05s
+what you want to do you want with you so that's the first part of the census reason about
+
+024m 05s --> 024m 10s
+but if you put concurrency next there's no doubt about it
+
+024m 15s --> 024m 20s
+free WiFi uh but I want you to understand that you don't have to believe me
+
+024m 20s --> 024m 25s
+even carried about the solar light just drove so unnecessary
+
+024m 30s --> 024m 35s
+#### home for a brother Jonathan you have to read this book
+
+024m 35s --> 024m 40s
+uh because the fantastic book as a book that will scare you to death because
+
+024m 45s --> 024m 50s
+just so difficult to get right but the other day going to see if you were to resist
+
+024m 50s --> 024m 55s
+what is the mention of utilities over and over and over and over and over again
+
+025m 00s --> 025m 05s
+42 ugh to do things beautifully in Java
+
+025m 05s --> 025m 10s
+you're fighting you know you you're fighting the street you're running a stream drive
+
+025m 15s --> 025m 20s
+directions for basically a program to convert the become very much easier
+
+025m 20s --> 025m 25s
+everything and you'll see the river circle that's in closure you need something
+
+025m 30s --> 025m 35s
+others no doubt about it the new to utilize xr really bad for confirm
+
+025m 35s --> 025m 40s
+uh so as the fourth architecture I think
+
+025m 45s --> 025m 50s
+we need to for questioning whether or not that's the right way to start I don't care how much is a test
+
+025m 55s --> 026m 00s
+about one of the things I came to was you I decided to do the right thing
+
+026m 00s --> 026m 05s
+start coding all my job in c-sharp it can be really busy sorry man
+
+026m 10s --> 026m 15s
+does static method that took a time return date a functional programming in C
+
+026m 20s --> 026m 25s
+and people look like on me like gold of what
+
+026m 30s --> 026m 35s
+that and I try to teach young programmers to do that is the second job in the shop
+
+026m 35s --> 026m 40s
+better if the functional but functional programming in languages the day before
+
+026m 45s --> 026m 50s
+uh so you can do what you want
+
+026m 50s --> 026m 55s
+what is matter I think the language that does the right thing served by the falls
+
+027m 00s --> 027m 05s
+in space I wanted which was talking to Ala I have to be less
+
+027m 05s --> 027m 10s
+for the afternoon Saturday that is closer
+
+027m 15s --> 027m 20s
+is happening at the same time that's what it really means a weather
+
+027m 20s --> 027m 25s
+happening at the same time to spend a little bit on whether I get more than once if you in what
+
+027m 30s --> 027m 35s
+full of simultaneous execution that is mobile trends running on separate
+
+027m 35s --> 027m 40s
+if you at the same time often even if you don't have
+
+027m 45s --> 027m 50s
+interleave excuse in a little bit this process happens with that
+
+027m 50s --> 027m 55s
+send back a forth leaving on a single CPU usage of a multi-threaded program
+
+028m 00s --> 028m 05s
+would like to avoid seeing the inconsistent a data
+
+028m 05s --> 028m 10s
+are producing inconsistent villa uh
+
+028m 15s --> 028m 20s
+the more steps involved in an operation in order for me to program
+
+028m 20s --> 028m 25s
+in order to do this I need to take some money out of this account to put over there but check with the
+
+028m 30s --> 028m 35s
+you're off work happen or not happened in a program
+
+028m 35s --> 028m 40s
+action sport makes it easier but in your programs you have similar kinds of things you need to
+
+028m 45s --> 028m 50s
+because of their also affects of concurrency Melissa parallelism
+
+028m 50s --> 028m 55s
+live there a parallel programming language is the language is the support of automatic a text
+
+029m 00s --> 029m 05s
+send the language speakers out well you know because everything is beautiful I could
+
+029m 05s --> 029m 10s
+the Sun with two jobs in 10 minutes 6000 close
+
+029m 15s --> 029m 20s
+this is the Sears going to be on the coordination aspects of programs are concurrent
+
+029m 20s --> 029m 25s
+the concurrency comes from your uh deciding for excusing
+
+029m 30s --> 029m 35s
+purses about were talking about today okay so
+
+029m 35s --> 029m 40s
+this is a strong man I'm not talking about closing hear what you have to do today
+
+029m 45s --> 029m 50s
+recognition of those those two languages so what do you do now
+
+029m 50s --> 029m 55s
+talk about is what do you know if you want to manipulate a collection in your program remote
+
+030m 00s --> 030m 05s
+poor thing for eyes inside the block who's that
+
+030m 05s --> 030m 10s
+election uh 3 o'clock only one thread can have lockers
+
+030m 15s --> 030m 20s
+patient in particular you have to choose to do this write any codes
+
+030m 20s --> 030m 25s
+oh I think other people might be using this cyber lock it
+
+030m 30s --> 030m 35s
+if the sides do it the convention of course you can say well you can have some
+
+030m 35s --> 030m 40s
+prize primitive off in Java on job finally whats the phone
+
+030m 45s --> 030m 50s
+directions to visa like I'm checking something with a collection
+
+030m 50s --> 030m 55s
+put something in last two steps so sick rise of the two step job lot
+
+031m 00s --> 031m 05s
+new clock hopefully uh so what's wrong with
+
+031m 05s --> 031m 10s
+what was the problem doing that um what you can't force it right everything
+
+031m 15s --> 031m 20s
+is not going to help you decide to stick nothing in dollars
+
+031m 20s --> 031m 25s
+autozone forces that's a big problem
+
+031m 30s --> 031m 35s
+program know if the size 12
+
+031m 35s --> 031m 40s
+this is the worst air inside the locker um that's a big problem
+
+031m 45s --> 031m 50s
+this things progress make a decision
+
+031m 50s --> 031m 55s
+are you have to go and figure out with a retrofit blocks
+
+032m 00s --> 032m 05s
+above that comes from the stomach is CPM machine is locked
+
+032m 05s --> 032m 10s
+super powerful global no one's getting here in everybody else that wanted
+
+032m 15s --> 032m 20s
+machine and guess what you're running out of the office if you receive this is no longer a maybe someday
+
+032m 20s --> 032m 25s
+this is definitely happening on the most mundane Hardware
+
+032m 30s --> 032m 35s
+more of that a yes uh
+
+032m 35s --> 032m 40s
+another probably the single lockers at it it really is too much uh
+
+032m 45s --> 032m 50s
+because you're locking of the readers for rent a writer for messing you up
+
+032m 50s --> 032m 55s
+they are also looking at other readers so that's it official
+
+033m 00s --> 033m 05s
+end of the solution is a special kind of lock not when you get
+
+033m 05s --> 033m 10s
+free by using lock with synchronized the shop in Java but when you man
+
+033m 15s --> 033m 20s
+special properties in particular readers the block each other solo careers can be in there
+
+033m 20s --> 033m 25s
+eating and they don't like each other so thats it in half of the pros and sport uh
+
+033m 30s --> 033m 35s
+by the way for readers in the sub in the strategy
+
+033m 35s --> 033m 40s
+but it's better for me parles so that's one solution
+
+033m 45s --> 033m 50s
+with everything is covered by collection ever
+
+033m 50s --> 033m 55s
+unusual things up but they have a very neat of movies
+
+034m 00s --> 034m 05s
+Dennis changed inside implementation a collection account is made of
+
+034m 05s --> 034m 10s
+the data in the Thomas Boston for work what the day that I was there
+
+034m 15s --> 034m 20s
+that is never going to change this was going to happen is the news to the date is going to get something
+
+034m 20s --> 034m 25s
+I also read our lock free even want to read a copyright
+
+034m 30s --> 034m 35s
+comic because these are prepare a date over here and then with the time
+
+034m 35s --> 034m 40s
+compare and swap operation swap in the data off
+
+034m 45s --> 034m 50s
+parents of the lock free operation 11600 process a primitive
+
+034m 50s --> 034m 55s
+change of memory value atomically without a thing in between
+
+035m 00s --> 035m 05s
+really nice property they were completely lock free uh no blocking in readers
+
+035m 05s --> 035m 10s
+no blocking a writer's by readers what love nice things the prom in general
+
+035m 15s --> 035m 20s
+surgery the doctor for copyright a real estate of called in love
+
+035m 20s --> 035m 25s
+will say if this is more for mostly read situation occasional right
+
+035m 30s --> 035m 35s
+petition a multi-step interaction with the copyright
+
+035m 35s --> 035m 40s
+historic Weiser lock which makes sense because
+
+035m 45s --> 035m 50s
+nothing about the puppies walking is going to help that so
+
+035m 50s --> 035m 55s
+what is the population you still have to lock so this is not
+
+036m 00s --> 036m 05s
+better job or C sharp today in the solution
+
+036m 05s --> 036m 10s
+Toys R Us a collection uh there is
+
+036m 15s --> 036m 20s
+42 fern C escola persistent data structure and
+
+036m 20s --> 036m 25s
+silly person as well those words that has its thorn Oregon in programming
+
+036m 30s --> 036m 35s
+open table to serialize it that's not with the snow services uh
+
+036m 35s --> 036m 40s
+we talk about a persistent data structure in functional programming of what we mean
+
+036m 45s --> 036m 50s
+what's going to happen is when you want to produce a change birth
+
+036m 50s --> 036m 55s
+this truck is going to prison other data structure
+
+037m 00s --> 037m 05s
+the recipes for producing new data structures for all the old ones should be you
+
+037m 05s --> 037m 10s
+any more uh and that's not true person to person
+
+037m 15s --> 037m 20s
+things still find your things fine both can't be changed
+
+037m 20s --> 037m 25s
+uh but the truth vs in data structure is for whatever gonna do
+
+037m 30s --> 037m 35s
+linear time axis to the middle for vector you have constant or near cost
+
+037m 35s --> 037m 40s
+Nexus to anywhere random access right love and if its a real estate
+
+037m 45s --> 037m 50s
+double effect on sometimes random lookup spiky a
+
+037m 50s --> 037m 55s
+never your performance galaxies are you in the Big O uh
+
+038m 00s --> 038m 05s
+really be considered a Pacific collection oh I do like I feel right when I can take a half table
+
+038m 05s --> 038m 10s
+make a new have to just settle everything into one by one what was the cost of that off
+
+038m 15s --> 038m 20s
+it was expecting when is searching to be constant I'm not linear so
+
+038m 20s --> 038m 25s
+assistant data structure a meeting is the performance go to the top reasons
+
+038m 30s --> 038m 35s
+the house in 15 uh but the application
+
+038m 35s --> 038m 40s
+what is that the new version can see full copy righted
+
+038m 45s --> 038m 50s
+I have a feeling your time to copy everything went somehow it came people copy
+
+038m 50s --> 038m 55s
+what the #### up you have to touch everything so they have to share structural so you went away
+
+039m 00s --> 039m 05s
+immutable collection and I haven't really inexpensive way to make a nuber
+
+039m 05s --> 039m 10s
+that was Walton's to it off and is your structure which means they have
+
+039m 15s --> 039m 20s
+is really really good and it is really really good stuff
+
+039m 20s --> 039m 25s
+if you been programming in list you can probably with a persistent flexible you have a cold
+
+039m 30s --> 039m 35s
+on cell why do you the consular functional matter if it persists destruction
+
+039m 35s --> 039m 40s
+contact list do you attack the original if I know you got this new list with
+
+039m 45s --> 039m 50s
+example of a person this is a very very simple process this structure but it
+
+039m 50s --> 039m 55s
+if it does so you serve what's the ball the shade structure
+
+040m 00s --> 040m 05s
+oldest one more thing at the front server Chris the definition of Allah
+
+040m 05s --> 040m 10s
+search certainly Steve whole heritage of a person list of
+
+040m 15s --> 040m 20s
+away I could've written the program written across my career without vectors in Houston
+
+040m 20s --> 040m 25s
+way I don't think relaxing code can survive without data circles with those kind of
+
+040m 30s --> 040m 35s
+which position a login kind of performance parts are not good enough for the party
+
+040m 35s --> 040m 40s
+what I've written for me a lot of people returning functional programming languages are okay with law
+
+040m 45s --> 040m 50s
+serving tray by for a list of linear talking about a map
+
+040m 50s --> 040m 55s
+use a tree and actors you don't even do it for research
+
+041m 00s --> 041m 05s
+assistant district attorney need doctors in and has tables as a lot of time
+
+041m 05s --> 041m 10s
+I'll be searching and designing a persistent half mass
+
+041m 15s --> 041m 20s
+office closures makes little high performance language with all the functional fitness
+
+041m 20s --> 041m 25s
+um in Addison causes a sore tonight and that's the old server classic
+
+041m 30s --> 041m 35s
+how do you do a half map 3 day uh
+
+041m 35s --> 041m 40s
+with any kind of performance of it is still a tree uh it is a
+
+041m 45s --> 041m 50s
+table is this is a tree a into the truth
+
+041m 50s --> 041m 55s
+REI high-pressure faktor faktor faktor uh is 30
+
+042m 00s --> 042m 05s
+so what you end up with is something that a was originally started by uh
+
+042m 05s --> 042m 10s
+the sky Bagwell 0 to pay per view search for array math test
+
+042m 15s --> 042m 20s
+uh but his were not functional so what I did was
+
+042m 20s --> 042m 25s
+pretty persistent functional version of these data structures but the basic
+
+042m 30s --> 042m 35s
+Pass of the value and you masc out ranges in this case
+
+042m 35s --> 042m 40s
+I bet ranges 32 a section 328
+
+042m 45s --> 042m 50s
+need to distinguish one object from another in a tablespoon
+
+042m 50s --> 042m 55s
+first guy in the lease if I did ask if he's the only guy there
+
+043m 00s --> 043m 05s
+do you have a collision and you get a new guy who's the same in the first Bible verse eyes
+
+043m 05s --> 043m 10s
+playing these look like three mins over here off only then will you use
+
+043m 15s --> 043m 20s
+you're only using this much is a half as much stuff as you need to represent the object
+
+043m 20s --> 043m 25s
+this is of your being a half table with very very good performance
+
+043m 30s --> 043m 35s
+turns its log 32 and a Lago
+
+043m 35s --> 043m 40s
+r32 that's a relief all lumber a present this is the map
+
+043m 45s --> 043m 50s
+how many levels are talking 7 at the most Elizabeth the first level
+
+043m 50s --> 043m 55s
+sons of the side so it's 60 the Titantic data structures
+
+044m 00s --> 044m 05s
+uh its three steps if you were at the point something three sets of your
+
+044m 05s --> 044m 10s
+login or log what time it doesn't matter that's cause in time to make it smaller
+
+044m 15s --> 044m 20s
+time for a meeting with high constant factor there much slower than
+
+044m 20s --> 044m 25s
+investigate it further technically cousin time vector solution
+
+044m 30s --> 044m 35s
+publication use it as a decent to look up lines are stunningly good
+
+044m 35s --> 044m 40s
+as good or better than what comes with a job which is really missing
+
+044m 45s --> 044m 50s
+I thought about how do you do the Persistence side
+
+044m 50s --> 044m 55s
+trick is to share structure is so what would happen if we took
+
+045m 00s --> 045m 05s
+we need a new version of it with wanted to something really change anything
+
+045m 05s --> 045m 10s
+well the a grocery store with this the city where is the never
+
+045m 15s --> 045m 20s
+in order to do that it needs to copy the path to the new entry in only the test
+
+045m 20s --> 045m 25s
+everything else all the staff was appointed the things that are in the oldest
+
+045m 30s --> 045m 35s
+is this pill over here in the new one is mostly that but this
+
+045m 35s --> 045m 40s
+whiteheads is new just a passing noodles
+
+045m 45s --> 045m 50s
+303 use the room
+
+045m 50s --> 045m 55s
+you make copies of the stress and that's what all the desk is off
+
+046m 00s --> 046m 05s
+used to uh to make manipulating the edge of this um
+
+046m 05s --> 046m 10s
+cheap of this data structures use both of the hash tables with
+
+046m 15s --> 046m 20s
+vector also work family except there is a partition table
+
+046m 20s --> 046m 25s
+Phil's completely uh
+
+046m 30s --> 046m 35s
+value that later generally this technique a full structural steel
+
+046m 35s --> 046m 40s
+music value and you Sheris much structure with the resort is a good
+
+046m 45s --> 046m 50s
+the entire original list is the tale of the new hub
+
+046m 50s --> 046m 55s
+that's a pretty simple operations in the principal data structure different state of Texas
+
+047m 00s --> 047m 05s
+these two are inserting grow at the end of static resized
+
+047m 05s --> 047m 10s
+and the message is a map for map
+
+047m 15s --> 047m 20s
+music either this position persistence the last to keep the
+
+047m 20s --> 047m 25s
+a performance characteristics there any relationship
+
+047m 30s --> 047m 35s
+dollar budget classes where everything is finally sitting inside
+
+047m 35s --> 047m 40s
+what is what what utilities to the #### we have and yes there is its own
+
+047m 45s --> 047m 50s
+the Ralph final so it is possible to do this is not very
+
+047m 50s --> 047m 55s
+very in medical code of but it certainly is school
+
+048m 00s --> 048m 05s
+this is Fred safety because the status or chicken never change nothing bad can never have
+
+048m 05s --> 048m 10s
+I haven't to threads look at it uh directions
+
+048m 15s --> 048m 20s
+is an exception right everything that happened to the other never happened
+
+048m 20s --> 048m 25s
+so we looked at an old is a couple of a lot
+
+048m 30s --> 048m 35s
+businesses in Ocean Pacific is unfortunately job doesn't come with it
+
+048m 35s --> 048m 40s
+best possible job in the close ones are written in Java uh yet
+
+048m 45s --> 048m 50s
+problem now everything I talked about before that was the easiest thing to pop
+
+048m 50s --> 048m 55s
+we do locus road were talking about only one data structure trying to control
+
+049m 00s --> 049m 05s
+thing which we can lock the one thing and do a multiple steps that is big
+
+049m 05s --> 049m 10s
+taps in concurrent programming because what happens is in real life
+
+049m 15s --> 049m 20s
+text I need to put in this thing only if they're not in this other one right
+
+049m 20s --> 049m 25s
+move somebody from this pool that's cool that will make sure the never into pools in Evernote
+
+049m 30s --> 049m 35s
+now all the sudden you up to game you need to control more than one
+
+049m 35s --> 049m 40s
+data asset in the same like a cooperation uh
+
+049m 45s --> 049m 50s
+or C sharp a you have two options really what is
+
+049m 50s --> 049m 55s
+whatever Golf Course trailer lock the others finder
+
+050m 00s --> 050m 05s
+this lock is locked to use control this set of things
+
+050m 05s --> 050m 10s
+really wanted to play anything in the set of things to grab this lock
+
+050m 15s --> 050m 20s
+um what's nice about it is the beach multipart operation
+
+050m 20s --> 050m 25s
+only requires the factors of 100 NFL
+
+050m 30s --> 050m 35s
+ABC over here and the lock for those and if you ever want such a bear city block
+
+050m 35s --> 050m 40s
+ABC lock is very safe is the safe
+
+050m 45s --> 050m 50s
+what a different set of things like what part of the program
+
+050m 50s --> 050m 55s
+use a D&C another part needs to be seen the well is there any BC
+
+051m 00s --> 051m 05s
+lock people have to know where at what lock to the need to use for what
+
+051m 05s --> 051m 10s
+instructions um this is not good for throughput
+
+051m 15s --> 051m 20s
+nystagmus mobile data structures which means it'll be more people interested in these days
+
+051m 25s --> 051m 30s
+needless blocking the scenario any others? Of what
+
+051m 30s --> 051m 35s
+just reading should I grab a #### I don't know do I do a flying redone
+
+051m 40s --> 051m 45s
+because you can occur the cost of holding the world why you read something I want you to remember
+
+051m 45s --> 051m 50s
+black ass later wanna hold the world hours really
+
+051m 55s --> 052m 00s
+so what is a lot to do searches in self
+
+052m 00s --> 052m 05s
+call the one to participate in our operation so now you say if I will
+
+052m 10s --> 052m 15s
+the look it up and see in the movies do whatever I need to do
+
+052m 15s --> 052m 20s
+and any logical operation may require multiple locks
+
+052m 25s --> 052m 30s
+uh because most programs start
+
+052m 35s --> 052m 40s
+Passat program so we can look at this new stuff or have other
+
+052m 45s --> 052m 50s
+and then uh I need a back rub to generate reports and you're like up
+
+052m 50s --> 052m 55s
+now all the stuff it was written notice but would ever be seen from other one
+
+053m 00s --> 053m 05s
+who is the best laid plan is still extremely difficult to write to you later plans
+
+053m 05s --> 053m 10s
+do that and then what happens all program things change Newark
+
+053m 15s --> 053m 20s
+sure you count for everything is streaming hard as I thought I was going to say it
+
+053m 20s --> 053m 25s
+it's almost impossible I sit and help people working for
+
+053m 30s --> 053m 35s
+contractions all day long it's extremely difficult
+
+053m 35s --> 053m 40s
+you know the basic problems with this evening before we get into the strategies which isn't surprising
+
+053m 45s --> 053m 50s
+and why was a lot of DNA you have a problem
+
+053m 50s --> 053m 55s
+the recipe for deadlock right we actually get a while get big
+
+054m 00s --> 054m 05s
+um its very possible this is very difficult on 4th locking doors
+
+054m 05s --> 054m 10s
+FF conventional #### alphabetically of like a real number the Pandora
+
+054m 15s --> 054m 20s
+it's the term in a stick and mechanical hard to do
+
+054m 20s --> 054m 25s
+on the other hand if you can do this correctly it would be better for putting the global catalog
+
+054m 30s --> 054m 35s
+uh the same question though
+
+054m 35s --> 054m 40s
+to get very random results of you though
+
+054m 45s --> 054m 50s
+what you have to do today if you're looking very special and I don't know
+
+054m 50s --> 054m 55s
+special for job at the shop in the morning special language or something does it for you
+
+055m 00s --> 055m 05s
+beautiful after forever but the structural aspect is a program written with me the logic
+
+055m 05s --> 055m 10s
+that is the program is composed of direct references
+
+055m 15s --> 055m 20s
+references direct references the things I can save as soon as you've done that
+
+055m 20s --> 055m 25s
+truly you are stuck with this locking stuff there's nothing else you can do
+
+055m 30s --> 055m 35s
+is this better batter is manual 24
+
+055m 35s --> 055m 40s
+and everythings convention every application of the side locking it before be lucky enough
+
+055m 45s --> 055m 50s
+it's not in the programming languages on napkins or is a doc somewhere whatever
+
+055m 50s --> 055m 55s
+some guys head off but it is not in your program unfortunately
+
+056m 00s --> 056m 05s
+closest does a stupid persistent instructions for to talk about
+
+056m 05s --> 056m 10s
+and we have the knowledge visibility programs in which you need to
+
+056m 15s --> 056m 20s
+what we're going to do is going to have a a reference to something
+
+056m 20s --> 056m 25s
+reference around I'll be stable reference um but what refers to that can change
+
+056m 30s --> 056m 35s
+is it the cell that holds appointment with a cell will always be able to track of
+
+056m 35s --> 056m 40s
+the point is the thing that may change the cell can you take it to the Titanic sink
+
+056m 45s --> 056m 50s
+the difference in closer if you have indirect reference is the things I could never
+
+056m 50s --> 056m 55s
+age but those references to be made to refer to other things
+
+057m 00s --> 057m 05s
+remember Fred looking Fredette one for the program in with the new
+
+057m 05s --> 057m 10s
+I think I can look for another party will be something else this going to cheat the same
+
+057m 15s --> 057m 20s
+another point for first that same feel a look at Fred
+
+057m 20s --> 057m 25s
+different from a shin the difference is this is indirect
+
+057m 30s --> 057m 35s
+that I thought I hold onto um NFL's references to change
+
+057m 35s --> 057m 40s
+the park closer that's beautiful the first thing so far talked about in class
+
+057m 45s --> 057m 50s
+tuxes list vectors map set none of that can change the oil
+
+057m 50s --> 057m 55s
+what is reference type uh and was important about the
+
+058m 00s --> 058m 05s
+just like pulling the functions to make a point to different things
+
+058m 05s --> 058m 10s
+those functions have sex with I'll talk about in a minute
+
+058m 15s --> 058m 20s
+other things not mess that up Anderson force for the 70's reference
+
+058m 20s --> 058m 25s
+can we change the transaction guess what
+
+058m 30s --> 058m 35s
+convention is all manual to change f1 do you in the other things never change
+
+058m 35s --> 058m 40s
+what if you actually the record for this reference is your getting you a lot
+
+058m 45s --> 058m 50s
+no this will never change what you looking at that's really beautiful
+
+058m 50s --> 058m 55s
+uh and in the application programs are NOLA NOLA
+
+059m 00s --> 059m 05s
+so I said this is the generic Lee call references
+
+059m 05s --> 059m 10s
+kind of a little off re use the word pencil see one of the reference Texas
+
+059m 15s --> 059m 20s
+so the references of the only thing the closer the better closer than you can you stop in closer
+
+059m 20s --> 059m 25s
+all kinds of things that can change the job I don't protect you from
+
+059m 30s --> 059m 35s
+um but in closer ollies references can change it really do take
+
+059m 35s --> 059m 40s
+this is inspired by ml ml is a pickle a reference in is really neat idea
+
+059m 45s --> 059m 50s
+array6 I will talk about the references a kind of neat idea problem for me in
+
+059m 50s --> 059m 55s
+talking at the close was it has no control animals free from cell
+
+060m 00s --> 060m 05s
+positive truck is it easy way to one data structure interchange version of
+
+060m 05s --> 060m 10s
+you really needed surgery. can put a lil bit I could you make a list of the changes to
+
+060m 15s --> 060m 20s
+is referred changed person so there are three types
+
+060m 20s --> 060m 25s
+of these references in closer of those things called bars
+
+060m 30s --> 060m 35s
+global variables and functions of the global Ocean Boulevard
+
+060m 35s --> 060m 40s
+in addition bars have the ability to be bound to see
+
+060m 45s --> 060m 50s
+binding is independent of other thread so I can find a bar called x2 about you
+
+060m 50s --> 060m 55s
+this thread I can buy to differ by you not read Anne says chemical a text
+
+061m 00s --> 061m 05s
+rolls like a stack of a little bit more but the permissive ours
+
+061m 05s --> 061m 10s
+is at bars for isolating changes within to read the thread what is the only 1i
+
+061m 15s --> 061m 20s
+program another thing you need to do in programs is the big is the moon
+
+061m 20s --> 061m 25s
+complex case it's the I need to move the service account for that account
+
+061m 30s --> 061m 35s
+I need to change two things I need to make a whole change a comic
+
+061m 35s --> 061m 40s
+and for that you need a trans axle for the rest in closer
+
+061m 45s --> 061m 50s
+value is sharing them synchronously and you sure
+
+061m 50s --> 061m 55s
+Courtney changes wrestle a change more than one thing in a coordinated
+
+062m 00s --> 062m 05s
+is the Superbowl the hiding the changes in dreads ref make
+
+062m 05s --> 062m 10s
+receiver Mobile friends ended it does a transaction again
+
+062m 15s --> 062m 20s
+publicly the third thing you might want to do is you might want to have a
+
+062m 20s --> 062m 25s
+change a single to sleep and independently but the beat festival for multiple threads
+
+062m 30s --> 062m 35s
+support that so with an Asian you have something that can change of
+
+062m 35s --> 062m 40s
+you can make a request for to change and it will eventually do that it'll do that iPhone 5
+
+062m 45s --> 062m 50s
+the whole different flavor things and uses for different purposes
+
+062m 50s --> 062m 55s
+I've written off as agent address is a suit
+
+063m 00s --> 063m 05s
+place in a composite let's break down
+
+063m 05s --> 063m 10s
+uh I'm not going to talk but all about
+
+063m 15s --> 063m 20s
+vessel variables in common with access to have thread semantics Collison
+
+063m 20s --> 063m 25s
+how many presidents are some particular color list two of the closest dog
+
+063m 30s --> 063m 35s
+of boys have a stack of the plane so if you find something in a bind again
+
+063m 35s --> 063m 40s
+invite again as a stack of ones those bindings on one and eventually gets restore
+
+063m 45s --> 063m 50s
+contact kind of programming you can set bars but very physically
+
+063m 50s --> 063m 55s
+what is Simon Says the next to be 5 of the only the treadmill clean
+
+064m 00s --> 064m 05s
+very cool I can talk for 2 hours about them
+
+064m 05s --> 064m 10s
+Reston transactions on the most about so how does this work
+
+064m 15s --> 064m 20s
+what happened to publicly that smells a lot like a database transaction in fact it is
+
+064m 20s --> 064m 25s
+transactions system Mr use inside your program of a transaxle
+
+064m 30s --> 064m 35s
+uh and I've used the term for the people who makes a virgin
+
+064m 35s --> 064m 40s
+remember what time it closes is very application-level
+
+064m 45s --> 064m 50s
+entries of yourself who is resting about references to
+
+064m 50s --> 064m 55s
+and the system for allowing changes what happens
+
+065m 00s --> 065m 05s
+when you make a change the transaction at James is the atomic and isolated
+
+065m 05s --> 065m 10s
+hey sailor asses off of Davis what can City Kansas
+
+065m 15s --> 065m 20s
+its atomic a nice little Ricci's it
+
+065m 20s --> 065m 25s
+everything is you make tour to set a breath inside a transaction I don't happen
+
+065m 30s --> 065m 35s
+everyone says I think this is David the other thing is a better
+
+065m 35s --> 065m 40s
+isolated so why you're talking about in your transaction you don't see
+
+065m 45s --> 065m 50s
+a big difference with transactions in Sulphur transaction number is this the least once
+
+065m 50s --> 065m 55s
+most of the road this way that is the transactions a speculative and they're all a map
+
+066m 00s --> 066m 05s
+B&N we both getting the new with like you get there first
+
+066m 05s --> 066m 10s
+I don't get a failure my trans axle automatically retry
+
+066m 15s --> 066m 20s
+part of the transactions for refried the database a mostly by law
+
+066m 20s --> 066m 25s
+walkie with Ville now sometimes you getting there starting your work
+
+066m 30s --> 066m 35s
+um it'll be on a Mac to be tried a key thing about that is there for you
+
+066m 35s --> 066m 40s
+can I have any side effects of it as you make a job a call it says press
+
+066m 45s --> 066m 50s
+Pine Hill I've been sick so no side effects allowed in transactions
+
+066m 50s --> 066m 55s
+you have
+
+067m 00s --> 067m 05s
+what what does that happen is that you going to be looking at the new transactions
+
+067m 05s --> 067m 10s
+when you retry the situation that said your go is not sure anymore
+
+067m 15s --> 067m 20s
+did my job if you can so that's how it works
+
+067m 20s --> 067m 25s
+uh have to live like an elf notion but I really feel it
+
+067m 30s --> 067m 35s
+so alone
+
+067m 35s --> 067m 40s
+details about the SM closure is its very neat
+
+067m 45s --> 067m 50s
+you wrap your code with fixing the sink
+
+067m 50s --> 067m 55s
+and anything that you do inside that is a transaction that includes a call you make a call
+
+068m 00s --> 068m 05s
+if it is absorbed by the the power transaction Cielo happen or not nothing
+
+068m 05s --> 068m 10s
+SMS it use say to say and you
+
+068m 15s --> 068m 20s
+its its magic uh
+
+068m 20s --> 068m 25s
+but it's really really complicated I ate closures LSU this is
+
+068m 30s --> 068m 35s
+is the Oracle or PostgreSQL those are dead
+
+068m 35s --> 068m 40s
+what is motivation concurrency control the idea behind
+
+068m 45s --> 068m 50s
+that is you keep old versions of the date around to support lingering read
+
+068m 50s --> 068m 55s
+the writer's can continue to produce new data readers will see service not so the world
+
+069m 00s --> 069m 05s
+which means if I start a transaction all the reasons
+
+069m 05s --> 069m 10s
+do inside the transaction appear to have happened at the same point in time
+
+069m 15s --> 069m 20s
+add appointment I might raise after the card and I will only see value the reference
+
+069m 20s --> 069m 25s
+map point I'm or things that I've myself a change my transaction no other values
+
+069m 30s --> 069m 35s
+when I commit those changes with Pierre to happen for everybody else
+
+069m 35s --> 069m 40s
+active as if it happens if we at the same point I'm so nothing is spread out over time
+
+069m 45s --> 069m 50s
+the from a consumer sale point is you always the consistency of the entire world
+
+069m 50s --> 069m 55s
+every reference you C inside a transaction weather reader or writer
+
+070m 00s --> 070m 05s
+block writers or other readers they never blossom so
+
+070m 05s --> 070m 10s
+does a great amount of throughput that's why does contain Percy and writers
+
+070m 15s --> 070m 20s
+if you reading plan 10 and they produced 11 12 13 you don't care as long
+
+070m 20s --> 070m 25s
+assistant in continues living 10 you'll see the world as of 10
+
+070m 30s --> 070m 35s
+is the use of those the right thing
+
+070m 35s --> 070m 40s
+oh yeah and the other thing is the closest in the sports
+
+070m 45s --> 070m 50s
+time to change you need to make our a community like
+
+070m 50s --> 070m 55s
+ok a, the counter or at a value to them as a result the transaction well
+
+071m 00s --> 071m 05s
+right back at you been writing transaction for something
+
+071m 05s --> 071m 10s
+which means no different but if I'm getting something from the feeling you're going
+
+071m 15s --> 071m 20s
+I had something I could use a few good at it if I had to read modify
+
+071m 20s --> 071m 25s
+set it and you have to read my face it we couldn't cooperate with us or operation the communitive
+
+071m 30s --> 071m 35s
+does add one to the water bill seasons doesn't matter and so on
+
+071m 35s --> 071m 40s
+close restaurants supports can you to the proper operation
+
+071m 45s --> 071m 50s
+is managed independent state the idea who is that does pizza State
+
+071m 50s --> 071m 55s
+indigenous responsible for it you can get us the to change by sending
+
+072m 00s --> 072m 05s
+whatever your state is applied to it and that's your new state the trick is
+
+072m 05s --> 072m 10s
+uh you send actions to Asian music Portugal send or
+
+072m 15s --> 072m 20s
+is that request for the change its cute up in that agent and eventually
+
+072m 20s --> 072m 25s
+ASIC wrestling in a fragile that actually happened this is from
+
+072m 30s --> 072m 35s
+networkers I have a very high degree of Independence the nice thing about it is
+
+072m 35s --> 072m 40s
+questions and they meet Li continue the work the change happens eventually
+
+072m 45s --> 072m 50s
+under the hood make sure that no more than one action is happening per agent at a time
+
+072m 50s --> 072m 55s
+all the activities on an agent or serialized system that would be the hard part
+
+073m 00s --> 073m 05s
+working you know what happens if you safe from the single source do this do that
+
+073m 05s --> 073m 10s
+other this that and the other will happen in water
+
+073m 15s --> 073m 20s
+LA but is that the state is always available if I wanna go see what to say to the Skype
+
+073m 20s --> 073m 25s
+it may not be all the
+
+073m 30s --> 073m 35s
+um but if extremely convenient vs a systems where you have to make
+
+073m 35s --> 073m 40s
+request for change and then make a request off for me send you a message back
+
+073m 45s --> 073m 50s
+there are lots of other cool features agents in particular sometimes you like to make sure
+
+073m 50s --> 073m 55s
+the work you asked for it on the way to do that using a weight
+
+074m 00s --> 074m 05s
+basic a separate with you you unblock like they do this that and the other thing
+
+074m 05s --> 074m 10s
+awake now I will wait for you do the same
+
+074m 15s --> 074m 20s
+action send other actions agency have anything to be able to do those things happen
+
+074m 20s --> 074m 25s
+does a dissatisfied have it sent after the agency The Sims
+
+074m 30s --> 074m 35s
+go to the next step that happens in order if you want
+
+074m 35s --> 074m 40s
+you can I see right in that order but the transactions the
+
+074m 45s --> 074m 50s
+transaction they are way to achieve once on the side effects
+
+074m 50s --> 074m 55s
+because what happens if you dispatch uh an action inside a train
+
+075m 00s --> 075m 05s
+so you know this is actually get retried you think you're sending this message over and over you really
+
+075m 05s --> 075m 10s
+you only ever get someone so if you want to Tysons by the fact that you could
+
+075m 15s --> 075m 20s
+write in a meeting with lock in transactions a problem
+
+075m 20s --> 075m 25s
+action trying to get your work done and get out
+
+075m 30s --> 075m 35s
+sons of you need closure threads do that you can do the closest
+
+075m 35s --> 075m 40s
+Fred you can dispatch of operations with executives from work
+
+075m 45s --> 075m 50s
+directions on of food you I try to swing arm is on
+
+075m 50s --> 075m 55s
+for the store um but I would prefer prefer the
+
+076m 00s --> 076m 05s
+the same purpose but the raid the fridge from for the earlier
+
+076m 05s --> 076m 10s
+alright who who
+
+076m 15s --> 076m 20s
+I wrote a broken
+
+076m 20s --> 076m 25s
+assimilation of an ant colony
+
+076m 30s --> 076m 35s
+uh but I guess you could use it if you didn't know something about it
+
+076m 35s --> 076m 40s
+experiment with what would be a good thing uh
+
+076m 45s --> 076m 50s
+an answer no one around trying to find food brand
+
+076m 50s --> 076m 55s
+back home does a good place in the world with his home along the way to go drop
+
+077m 00s --> 077m 05s
+as for food show me to make a decision
+
+077m 05s --> 077m 10s
+about how to leverage that information
+
+077m 15s --> 077m 20s
+well we have to present the perfect in system friends and fake
+
+077m 20s --> 077m 25s
+friends are over because people to have a smoke a city boxes
+
+077m 30s --> 077m 35s
+I'm not saying this to be necessary if you have the stuff to do most people just read it
+
+077m 35s --> 077m 40s
+big loop right tell if a chance baby baby baby baby hey Bandera
+
+077m 45s --> 077m 50s
+what is an example of a system that would require a lot of coordination
+
+077m 50s --> 077m 55s
+what mobile thread is a good example of what's hard about the car park
+
+078m 00s --> 078m 05s
+complex uh we're going to throw in we want to model for
+
+078m 05s --> 078m 10s
+operation because it's hard on and it probably is
+
+078m 15s --> 078m 20s
+turns all green I need to talk about pray about it but the idea is that yo buy back
+
+078m 20s --> 078m 25s
+only the valuable password be repaired uh we should have it
+
+078m 30s --> 078m 35s
+closer um n end up being really tiny
+
+078m 35s --> 078m 40s
+pretty simple uh
+
+078m 45s --> 078m 50s
+uh alright so what we have here
+
+078m 50s --> 078m 55s
+is the some closure source code
+
+079m 00s --> 079m 05s
+email you'll note my complete ineptitude at the max
+
+079m 05s --> 079m 10s
+I never learned it before I head closer uh why when I pregnant
+
+079m 15s --> 079m 20s
+but I am really lucky that somebody is written a nice clothes remote for the Mac lab
+
+079m 20s --> 079m 25s
+send text I lighting bunch of other neat features only a fraction
+
+079m 30s --> 079m 35s
+in the bottom we have a raffle for closer
+
+079m 35s --> 079m 40s
+I'm already
+
+079m 45s --> 079m 50s
+if its a problem uh because I want to try to get by
+
+079m 50s --> 079m 55s
+scream at one time already talked to the living room for my relationship
+
+080m 00s --> 080m 05s
+closer what is a list that means that a
+
+080m 05s --> 080m 10s
+operations are in parentheses write an operator is first
+
+080m 15s --> 080m 20s
+open whats the same number friend of the closest you'll go
+
+080m 20s --> 080m 25s
+as I said literal does a vector uh
+
+080m 30s --> 080m 35s
+thank you buy your kids I babysit Prince of commas color white space
+
+080m 35s --> 080m 40s
+vitamin if I was there but they don't do anything uh
+
+080m 50s --> 080m 55s
+is that a map now in the operator position and I can look up a
+
+081m 00s --> 081m 05s
+couple a quick a uh things easier to show
+
+081m 05s --> 081m 10s
+immutability what sold
+
+081m 15s --> 081m 20s
+map of the water cycle test
+
+081m 20s --> 081m 25s
+uh and other functions associate with the store for associate what River
+
+081m 30s --> 081m 35s
+all of this record a fab
+
+081m 35s --> 081m 40s
+for
+
+081m 45s --> 081m 50s
+hey question ah
+
+081m 50s --> 081m 55s
+yes you want to get cozy here
+
+082m 00s --> 082m 05s
+yes
+
+082m 30s --> 082m 35s
+uh oh so you so well
+
+082m 45s --> 082m 50s
+person uh and then
+
+082m 50s --> 082m 55s
+if I were to uh well I say the same thing
+
+083m 00s --> 083m 05s
+CA 42
+
+083m 05s --> 083m 10s
+Bush's what changes a map associate this map
+
+083m 15s --> 083m 20s
+who won the fight this feels to mass
+
+083m 20s --> 083m 25s
+100000 and what causes you
+
+083m 30s --> 083m 35s
+and also if things were you tested for buffets to Facebook
+
+083m 35s --> 083m 40s
+the reason I have to do something about this for both purposes uh
+
+083m 45s --> 083m 50s
+who has the best worst thing as we go through uh
+
+083m 50s --> 083m 55s
+it would be it would be great if you could get a sense although I guess everybody here
+
+084m 00s --> 084m 05s
+it was totally cool to do this program because I said both of my day to go put my represent
+
+084m 05s --> 084m 10s
+find some stuff that I need to see it like for the Galleria
+
+084m 15s --> 084m 20s
+everyone with a better chance program really love it um so it
+
+084m 20s --> 084m 25s
+fun to bring that it's records on experience is the job of world
+
+084m 30s --> 084m 35s
+best wide uh 60 tracking number man says the square
+
+084m 35s --> 084m 40s
+Number bed what's the fix something later is there before 9 a.m.
+
+084m 45s --> 084m 50s
+the range of Mount of food place daily values for the
+
+084m 50s --> 084m 55s
+drawing the rent for a month and food and evaporation rate
+
+085m 00s --> 085m 05s
+access your time for how long does sleep in the animation Lupton
+
+085m 05s --> 085m 10s
+and behavior in about a racing
+
+085m 15s --> 085m 20s
+again if you no califica like I'm so far
+
+085m 20s --> 085m 25s
+uh we have the truck fell and older
+
+085m 30s --> 085m 35s
+say we should just go look like
+
+085m 35s --> 085m 40s
+truck I'm sending these guys for the bottom the evaluator
+
+085m 45s --> 085m 50s
+only furniture so now I have a definition of the cell
+
+085m 50s --> 085m 55s
+what you have the truck you can you create one but thanks
+
+086m 00s --> 086m 05s
+that was supplied to the destructors saw this for real what
+
+086m 05s --> 086m 10s
+look like map stocks a map
+
+086m 15s --> 086m 20s
+have a baby by 80 6400 Google have
+
+086m 20s --> 086m 25s
+food TNF Bourque republikein ok
+
+086m 30s --> 086m 35s
+princes of the map will sell those keys that's really awesome
+
+086m 35s --> 086m 40s
+but in every way structure map is it a killer um
+
+086m 45s --> 086m 50s
+what could an element
+
+086m 50s --> 086m 55s
+okay
+
+087m 00s --> 087m 05s
+account of food counter for Mon I'm having Thomas
+
+087m 05s --> 087m 10s
+they may also have an insult send mail to be does me to go home
+
+087m 15s --> 087m 20s
+free say every so how's that for some ridiculous you don't need to
+
+087m 20s --> 087m 25s
+The Avenue at the house in doesn't uh okay
+
+087m 30s --> 087m 35s
+there are actually two the vectors and closes early vector the better
+
+087m 35s --> 087m 40s
+resurrection job for this is a furlough function inside we can look at it we're going to me
+
+087m 45s --> 087m 50s
+about to create a struct sell object
+
+087m 50s --> 087m 55s
+with no food and no firma 00 and dinner
+
+088m 00s --> 088m 05s
+references wrestling talked about earlier that something that can only be changed the transaction
+
+088m 05s --> 088m 10s
+the rear end up with 6400 references
+
+088m 15s --> 088m 20s
+map the
+
+088m 20s --> 088m 25s
+closer that's correct this is not a verb right there a map
+
+088m 30s --> 088m 35s
+uh make a spoon and I have a world
+
+088m 35s --> 088m 40s
+the world is there a
+
+088m 45s --> 088m 50s
+always the reference that way so I'm going to help a functional place and I will
+
+088m 50s --> 088m 55s
+find a spot in the world to go to self
+
+089m 00s --> 089m 05s
+because it's not that simple what is a bike
+
+089m 05s --> 089m 10s
+this is an organ lesson inside that is a factor but this is an example destroy
+
+089m 15s --> 089m 20s
+I writing the a binding as a vector it can name the
+
+089m 20s --> 089m 25s
+is inside the doctor directly I supposed to say I think of actor kal V and then inside
+
+089m 30s --> 089m 35s
+structuring I can just record say I think about the other than the first thing a wife
+
+089m 35s --> 089m 40s
+place to find a function we can try it what's the place
+
+089m 45s --> 089m 50s
+um I don't usually care about the rest I might want to see what's inside them
+
+089m 50s --> 089m 55s
+and we can do that like a lady rough for those a reader macro
+
+090m 00s --> 090m 05s
+the place I see well that's good everything good so far
+
+090m 05s --> 090m 10s
+uh I now have something
+
+090m 15s --> 090m 20s
+north and then it clockwise 280 square world
+
+090m 20s --> 090m 25s
+restaurants uh
+
+090m 30s --> 090m 35s
+does that and that will love pizza but that's awful
+
+090m 35s --> 090m 40s
+now we can trade in another hear the first instance where
+
+090m 45s --> 090m 50s
+answer going to live in the world and that's really rather date
+
+090m 50s --> 090m 55s
+for creating it mean uh placing an inch
+
+091m 00s --> 091m 05s
+get to things when is where to go in the world and the others which direction
+
+091m 05s --> 091m 10s
+the facing Ali and the now you see
+
+091m 15s --> 091m 20s
+change references in transactions will think a is the primitive
+
+091m 20s --> 091m 25s
+that start a transaction for anything with inside the Friends of the sink is going to be in
+
+091m 30s --> 091m 35s
+I got rid of the macro that here I got tired of rice
+
+091m 35s --> 091m 40s
+Milford Rd sick and I said I'll be parked closer uh
+
+091m 45s --> 091m 50s
+location: I just call place before right there is a reference to the place
+
+091m 50s --> 091m 55s
+okay Elena Kristen and instruct him
+
+092m 00s --> 092m 05s
+call alter alters on the way you can change a reference
+
+092m 05s --> 092m 10s
+set Walter and commute alters kind of the night
+
+092m 15s --> 092m 20s
+function with you Lord for all for me for this is alter
+
+092m 20s --> 092m 25s
+the thing at p which way does a little map right associating
+
+092m 30s --> 092m 35s
+no that doesn't change the data structure that was that right so what is a social
+
+092m 35s --> 092m 40s
+Prison new map doesn't change the map of Fair
+
+092m 45s --> 092m 50s
+where does Anthony don't change the message was that you're going to get to watch
+
+092m 50s --> 092m 55s
+so no mas never change no data structure the closer every
+
+093m 00s --> 093m 05s
+with the sociation with the fam just like a so-so to 4
+
+093m 05s --> 093m 10s
+I'm listening to create a new map taking what was in pain
+
+093m 15s --> 093m 20s
+call the function of the state of the things you say what's up after the reference
+
+093m 20s --> 093m 25s
+uh I never got a return of an agent
+
+093m 30s --> 093m 35s
+tax locations for the idea here the world is a set of references
+
+093m 35s --> 093m 40s
+who sells of the cells have food for months baby have
+
+093m 45s --> 093m 50s
+in a transaction then we're going to have agents in Egypt Prince
+
+093m 50s --> 093m 55s
+a synchronous guys are going to do work there state is going to be location
+
+094m 00s --> 094m 05s
+note 2 o'clock place a face that I would be potentially
+
+094m 05s --> 094m 10s
+art thing to maintain a few words right this manually with lock everything like that just make sure note
+
+094m 15s --> 094m 20s
+in charge of making sure that that's the case so we're going to take a location where Paso
+
+094m 20s --> 094m 25s
+we create an app uh
+
+094m 30s --> 094m 35s
+0 of insurrection 0 uh
+
+094m 35s --> 094m 40s
+credit
+
+094m 45s --> 094m 50s
+flight here hey American CA is
+
+094m 50s --> 094m 55s
+it's just an agent agent give me the rest like references
+
+095m 00s --> 095m 05s
+place 00 what do we say
+
+095m 05s --> 095m 10s
+nm cool
+
+095m 15s --> 095m 20s
+how to move a little more clear so up
+
+095m 20s --> 095m 25s
+all set for where home is in range that's why I have an square root now because
+
+095m 30s --> 095m 35s
+is this all there for a confidence builder square root
+
+095m 35s --> 095m 40s
+free life Square big enough to hold me in huh
+
+095m 45s --> 095m 50s
+the sequence of an agent okay so if we're placing
+
+095m 50s --> 095m 55s
+definitely the world are we better be in a transaction
+
+096m 00s --> 096m 05s
+right we're going to uh uh go through
+
+096m 05s --> 096m 10s
+free food place we're going to find a place Brooke pick a random places to go
+
+096m 15s --> 096m 20s
+better food in the range of food before the whole turkey same things up before
+
+096m 20s --> 096m 25s
+funny this is this the transaction does Will Smith Midway a lot
+
+096m 30s --> 096m 35s
+this is the this is the list
+
+096m 35s --> 096m 40s
+call for those for Ajax in this sequence whatever it is and he's wine
+
+096m 45s --> 096m 50s
+what's the confession cover for tax reasons those were going to do some work
+
+096m 50s --> 096m 55s
+I'm the real a job of 4 return
+
+097m 00s --> 097m 05s
+everything that's because Chris is axis side effects of service which is tomorrow
+
+097m 05s --> 097m 10s
+place a couple do all the talking all the place we're going to say this is the home
+
+097m 15s --> 097m 20s
+call then start at home a little square to put Elizabeth Way
+
+097m 20s --> 097m 25s
+okay in a transaction from home is it a sin
+
+097m 30s --> 097m 35s
+will the world is a Taurus to connect the at the side
+
+097m 35s --> 097m 40s
+around three other effect pop a bottle return to the game
+
+097m 45s --> 097m 50s
+the bottom has a friend um so between
+
+097m 50s --> 097m 55s
+the donut world have to go from one to the other end in the direction world
+
+098m 00s --> 098m 05s
+I rather uh
+
+098m 05s --> 098m 10s
+the W ran
+
+098m 15s --> 098m 20s
+simulation for you need to remember you need to make a menace election and then
+
+098m 20s --> 098m 25s
+picking from have different probabilities you pretend you have a roulette wheel
+
+098m 30s --> 098m 35s
+finger slice is a bigger just look at the floor
+
+098m 35s --> 098m 40s
+does that in the back of life size is the returns in the life getting around
+
+098m 45s --> 098m 50s
+so we should try this one and no idea but it takes one with a tobacco
+
+098m 50s --> 098m 55s
+of Boca 7234 um this is going to return
+
+099m 00s --> 099m 05s
+more often Pacifica probabilities no fighting just a really hard
+
+099m 05s --> 099m 10s
+free right
+
+099m 15s --> 099m 20s
+what would ex wife of the day what's the function is one
+
+099m 20s --> 099m 25s
+how do the final in the fun the phone
+
+099m 30s --> 099m 35s
+what do you think about mass map of Russia the keys
+
+099m 35s --> 099m 40s
+doesn't need the number
+
+099m 45s --> 099m 50s
+Bella salon
+
+099m 50s --> 099m 55s
+that's a really cool to be able to go to my profile what's what's up
+
+100m 00s --> 100m 05s
+what the #### is that works then I got tired of reading
+
+100m 05s --> 100m 10s
+will so I roll a macro little sick though I called you sick from now on on you
+
+100m 15s --> 100m 20s
+we have a bunch of small behaviors a house over time do I need to
+
+100m 20s --> 100m 25s
+rap the song is over okay where to pick up the room
+
+100m 30s --> 100m 35s
+I so tired president application at this point
+
+100m 35s --> 100m 40s
+the world so they're all gonna be transactional so turns it take a location in the Mount
+
+100m 45s --> 100m 50s
+uh any particular dysfunction turn move whatever is the function of
+
+100m 50s --> 100m 55s
+in inches when was city state of an indigenous
+
+101m 00s --> 101m 05s
+please see these are all functions of at least the location of other day about all the functions about the app
+
+101m 05s --> 101m 10s
+location: causes a function to go to become actions of the SAT
+
+101m 15s --> 101m 20s
+Lisa function of a state to see about an axis
+
+101m 20s --> 101m 25s
+are actually in agent function so difficult
+
+101m 30s --> 101m 35s
+that's there what is the speed data now doing all the place a SoC
+
+101m 35s --> 101m 40s
+a man with the results of altering the end by teasing 3
+
+101m 45s --> 101m 50s
+anything really to do with the new cell
+
+101m 50s --> 101m 55s
+that new and put that new cell in that old place we can really change
+
+102m 00s --> 102m 05s
+this is all really worthwhile hopefully
+
+102m 05s --> 102m 10s
+but its not that hard even if it wasn't worth I don't think
+
+102m 15s --> 102m 20s
+this thing doesn't change location but remember up in action is the function of the
+
+102m 20s --> 102m 25s
+play to the bank so it better take a look at something in return location
+
+102m 30s --> 102m 35s
+okay now move removing is the directions heading
+
+102m 40s --> 102m 45s
+in the way I know see this function itself
+
+102m 45s --> 102m 50s
+doesn't have thinking it and if you were to call if it would
+
+102m 55s --> 103m 00s
+the transaction is a ping an official to constantly recheck for the presence of the
+
+103m 00s --> 103m 05s
+inside moves so the decision making process of the behavior to find them
+
+103m 10s --> 103m 15s
+pirate Texas no answer the way nothin forcing a note with his face
+
+103m 15s --> 103m 20s
+work we get the work of old P worry we were removed from this place
+
+103m 25s --> 103m 30s
+delta function at the figures out the new location
+
+103m 30s --> 103m 35s
+Bakery Cafe
+
+103m 40s --> 103m 45s
+the new locations 4223 from where you are pointing the directions
+
+103m 45s --> 103m 50s
+and I we find a place there's nothing to be our photographer
+
+103m 55s --> 104m 00s
+call to the old place in this social cyst removed the ski
+
+104m 00s --> 104m 05s
+nor am I lol uh and then
+
+104m 10s --> 104m 15s
+so we don't talk for a little bit otherwise when we move we leave for a month behind
+
+104m 15s --> 104m 20s
+okay so this is says if the place where we were is it home
+
+104m 25s --> 104m 30s
+the lot of work in a couple places altar of this
+
+104m 30s --> 104m 35s
+is a hard job with lock lock what is a what order do you like
+
+104m 40s --> 104m 45s
+very easy well here I am saying how's the weather this function doesn't even do that
+
+104m 45s --> 104m 50s
+ringdroid
+
+104m 55s --> 105m 00s
+because the transaction I figured out the food there is more than zero food
+
+105m 05s --> 105m 10s
+decorating with food and give the food put that in about
+
+105m 15s --> 105m 20s
+isn't it this is changing to attribute of the mass building new map
+
+105m 20s --> 105m 25s
+going to return the same location oh yeah notebook movie return the new
+
+105m 30s --> 105m 35s
+that's one of the few that are the different value here to take food does a movie you
+
+105m 35s --> 105m 40s
+uh like that drop food same story
+
+105m 45s --> 105m 50s
+you are same kind of thing if it went through to the place where you are
+
+105m 50s --> 105m 55s
+disassociate for from you NFL for now
+
+106m 00s --> 106m 05s
+I need a helper functions arrange things by some sorting function so I don't want to
+
+106m 05s --> 106m 10s
+I want their ranks uh so what is it
+
+106m 15s --> 106m 20s
+a map of them to there was a stray when you sort them by their key function
+
+106m 20s --> 106m 25s
+so I can have a bunch of things to buy some function and then return a map of the thing
+
+106m 30s --> 106m 35s
+its not that interesting um uh
+
+106m 35s --> 106m 40s
+its called her do some other hobby haven
+
+106m 45s --> 106m 50s
+over and over and over again it is in the head so what
+
+106m 50s --> 106m 55s
+final offer places where are we what's the answer to the Play Store app
+
+107m 00s --> 107m 05s
+and we're going to make a list of places that are in front of us kinda
+
+107m 05s --> 107m 10s
+head head slightly to the left to the right we're going to use the way
+
+107m 15s --> 107m 20s
+supple lips of them name that you need uh
+
+107m 20s --> 107m 25s
+star transaction I'm going to know what is next to life free live for the moment
+
+107m 30s --> 107m 35s
+trying to get home or charging so we're going to say if
+
+107m 35s --> 107m 40s
+food I'm closer has a common law
+
+107m 45s --> 107m 50s
+the $40 means fault anything else true
+
+107m 50s --> 107m 55s
+um so I don't care about the value of food in the oven just got up
+
+108m 00s --> 108m 05s
+the conditions here what is I am home right at this place is Marcus ahlm
+
+108m 05s --> 108m 10s
+a map so the answer is going to drop the food off I gotta clean this
+
+108m 15s --> 108m 20s
+basically is like a reading things to say take my location
+
+108m 20s --> 108m 25s
+important to the first function of this is a wrap it going to make a function of a call
+
+108m 30s --> 108m 35s
+turn that would be the value of the first argument turn
+
+108m 35s --> 108m 40s
+text this a drop it off location in turn off that for
+
+108m 45s --> 108m 50s
+um so is the function of location
+
+108m 50s --> 108m 55s
+location: then turn that thing by for the location
+
+109m 00s --> 109m 05s
+if we see this is home in front of us and no answer there we call me
+
+109m 05s --> 109m 10s
+remember was a requirement move that would be in a transaction which we are and we know that there's no
+
+109m 15s --> 109m 20s
+these functions cooperate new for the birth of biotic Lee otherwise
+
+109m 20s --> 109m 25s
+weather stripping for now we have to do some sort of selection and uh this is probably
+
+109m 30s --> 109m 35s
+I need to rank of the possibilities 3 possibly moving forward
+
+109m 35s --> 109m 40s
+turning left or to the right of the three things I can do
+
+109m 45s --> 109m 50s
+this is to it what is in a wreck by his home in front of us that's worth
+
+109m 50s --> 109m 55s
+um and this is a bunch of little
+
+110m 00s --> 110m 05s
+so have a safe fun something and then write this
+
+110m 05s --> 110m 10s
+something here I can say sharp the body and a sister said
+
+110m 15s --> 110m 20s
+60 Plato and I was closer this is the same as fun of app
+
+110m 20s --> 110m 25s
+if home X 10
+
+110m 30s --> 110m 35s
+don't bother with this right fun so hard uh
+
+110m 35s --> 110m 40s
+tell work you're composing that little #### with the rest of anything
+
+110m 45s --> 110m 50s
+the place is sorted by their phone contacts that were mercenaries 2 map
+
+110m 50s --> 110m 55s
+with plus to take a minor beach Key with plus
+
+111m 00s --> 111m 05s
+the right now three choices um then we're going to head
+
+111m 05s --> 111m 10s
+call a doctor and like master functions of the keys vectors of
+
+111m 15s --> 111m 20s
+when I move what would turn left or right circle three functions
+
+111m 20s --> 111m 25s
+factor that we make a random electroid right of those racks
+
+111m 30s --> 111m 35s
+on off the location this is probably just too
+
+111m 35s --> 111m 40s
+viber as I said that in a more steps but that's what's happening I'm taking a
+
+111m 45s --> 111m 50s
+will think based upon the ranks I calculator before that is the function
+
+111m 50s --> 111m 55s
+express enough of them colocation am I going to move from left to right
+
+112m 00s --> 112m 05s
+I found food where I am and I'm not home back out of your home
+
+112m 05s --> 112m 10s
+right so if I found food I'm not home gonna take the food and forever
+
+112m 15s --> 112m 20s
+that's also not home and no answer I remember those caviar then I can move
+
+112m 20s --> 112m 25s
+I'll go there another person text cycle I'll take out food
+
+112m 30s --> 112m 35s
+I take it you're not allowed to write the rain
+
+112m 35s --> 112m 40s
+the front of me by the food causes and the firm I'm looking for food
+
+112m 45s --> 112m 50s
+yes or up love behave Las Vegas
+
+112m 50s --> 112m 55s
+ocean in there enough for me Luke off huh
+
+113m 00s --> 113m 05s
+whatever but fresh for months or more valuable really old 111 McKinley definitely
+
+113m 05s --> 113m 10s
+that useful and theoretically in my very limited and knowledge
+
+113m 15s --> 113m 20s
+map reading up a big job to make the perfect couple
+
+113m 20s --> 113m 25s
+for example of making every last bit of
+
+113m 30s --> 113m 35s
+world um and in a little transaction one for
+
+113m 35s --> 113m 40s
+well I'm going to a motel for the night if ur mama Sita place
+
+113m 45s --> 113m 50s
+I'm just waking the firm so this is going to be
+
+113m 50s --> 113m 55s
+running I will get to get to the final today D in a second I'm gonna be
+
+114m 00s --> 114m 05s
+well this league
+
+114m 05s --> 114m 10s
+0 why don't I don't 460 so you just keep going
+
+114m 15s --> 114m 20s
+ok great um another use
+
+114m 20s --> 114m 25s
+the four again to run because for the lazy I need to 415 happened
+
+114m 30s --> 114m 35s
+that would really you know him down the world the writing transactions
+
+114m 35s --> 114m 40s
+so but I don't really care of the foot the evaporator everything so I can do a little job lot
+
+114m 45s --> 114m 50s
+elephant higher simulation logic um up there sup
+
+114m 50s --> 114m 55s
+let's have fun UI I need to do some job stuff to do some you I love
+
+115m 00s --> 115m 05s
+pollen Jolla yes to the same job
+
+115m 05s --> 115m 10s
+dollar um I know what is by 80 w 220 for c5
+
+115m 15s --> 115m 20s
+uh and then I'm going to go under the sea
+
+115m 20s --> 115m 25s
+backwards from render the closure of revising the fighting for the you
+
+115m 30s --> 115m 35s
+uh which is that we're going to be getting a graphics contacts
+
+115m 35s --> 115m 40s
+the ideas does a painting friend Nicole's you
+
+115m 45s --> 115m 50s
+and uh so the cool thing about renters what is the
+
+115m 50s --> 115m 55s
+when is the paper whole world
+
+116m 00s --> 116m 05s
+Rutherford Boulevard Android
+
+116m 05s --> 116m 10s
+whole world but it only has to read the whole world
+
+116m 15s --> 116m 20s
+play cancellation what is a really hard problem is a bit of a written out the whole bunch of stuff
+
+116m 20s --> 116m 25s
+I like a report I want to sure that nobody present two places at once
+
+116m 30s --> 116m 35s
+in order to have a valid report everything figured I guess what
+
+116m 35s --> 116m 40s
+Tim does this kind of stuff and that's a very very hard thing to do so what do we do we may
+
+116m 45s --> 116m 50s
+like that know what to say about transaction
+
+116m 50s --> 116m 55s
+you when you read the transaction everything you read is as if
+
+117m 00s --> 117m 05s
+around and evaporated map reading thing this
+
+117m 05s --> 117m 10s
+is going to get a consistent view the world what does this do you think
+
+117m 15s --> 117m 20s
+Universal crisscross van if you can see the ass they would all be there
+
+117m 20s --> 117m 25s
+and you have to trust me on that but but thats thats the deal so
+
+117m 30s --> 117m 35s
+so we're going to create a transaction and we're going to
+
+117m 35s --> 117m 40s
+through every place right off the whole range and I play
+
+117m 45s --> 117m 50s
+popular the map right because they're never going to change open references in a second
+
+118m 00s --> 118m 05s
+while this is happening right everything is changing
+
+118m 05s --> 118m 10s
+that's right I mean
+
+118m 15s --> 118m 20s
+do that the old weigh in the loop way right I would I would pick up Rihanna
+
+118m 20s --> 118m 25s
+NP that cigarette and pay that I would know that every paper I kal hum
+
+118m 30s --> 118m 35s
+tennis world all kinds of things well the other
+
+118m 35s --> 118m 40s
+pretty consistent behavior branches take longer than others
+
+118m 45s --> 118m 50s
+rent so is it really is the notion of brain brain brain for free in the activity
+
+118m 50s --> 118m 55s
+so we really have it in Tennessee after the world is animation
+
+119m 00s --> 119m 05s
+the real world supposed to have the reporting you have this problem of and if that will work
+
+119m 05s --> 119m 10s
+did you have a very difficult problem I have yet to see of elegant solution
+
+119m 15s --> 119m 20s
+don't have the copious login and Pine Point Sunday we create things
+
+119m 20s --> 119m 25s
+backwards so we talk in the world very quick
+
+119m 30s --> 119m 35s
+fling stuff really great buffet image which is not where were drawing
+
+119m 35s --> 119m 40s
+create a image there right of due to the way to do mobile opera
+
+119m 45s --> 119m 50s
+text color block .bz for Xbox like they do to BJs
+
+119m 50s --> 119m 55s
+30 gallons of ice at the back of all the way I feel a recipe
+
+120m 00s --> 120m 05s
+the rest of the place for functional say um and then uh
+
+120m 05s --> 120m 10s
+we're going to go and crazy uh a box around home in blue
+
+120m 15s --> 120m 20s
+second then we draw a rectangle around home and uh
+
+120m 20s --> 120m 25s
+then we be off then we take a buffer damaged we put it into the panel
+
+120m 30s --> 120m 35s
+that makes it animation supposed to join while you're showing in mini golf liquor
+
+120m 35s --> 120m 40s
+I slept render surrender call Brenda place
+
+120m 45s --> 120m 50s
+graphic place and that's why location is this for Mon there
+
+120m 50s --> 120m 55s
+Green Knight's Tale by the motor for motor in FL fact I said before
+
+121m 00s --> 121m 05s
+uh then we have rendered
+
+121m 05s --> 121m 10s
+um this is more complicated for leaving you Fabolous but the bottom line is
+
+121m 15s --> 121m 20s
+nude or black bf doesnt it's pointing in the directions believe me that's not very
+
+121m 20s --> 121m 25s
+looking like a #### about your desk for the a
+
+121m 30s --> 121m 35s
+tell sell is a function is a cigarette is this interesting thing right here
+
+121m 35s --> 121m 40s
+we have seen before which is shark carrot this is off
+
+121m 45s --> 121m 50s
+okay um so this is the method in a little this is this is meta data
+
+121m 50s --> 121m 55s
+being supplied to the compiler on this is associating the medicine
+
+122m 00s --> 122m 05s
+policies that says this she's going to be representing a graphics
+
+122m 05s --> 122m 10s
+and we haven't seen any type so far
+
+122m 15s --> 122m 20s
+given Justin this is a graphic all the code in here will not use reflect
+
+122m 20s --> 122m 25s
+will generate call job that do not use reflection on and you'll see the
+
+122m 30s --> 122m 35s
+RAM NFL Texas Ren fest enough to work given the
+
+122m 35s --> 122m 40s
+traffic that knows this signature the functions of the called directly north
+
+122m 45s --> 122m 50s
+local cell reference winterplace
+
+122m 50s --> 122m 55s
+when do the whole world uh
+
+123m 00s --> 123m 05s
+that's a graphics thingy right
+
+123m 05s --> 123m 10s
+econo paint I just to find an instance of a drive
+
+123m 15s --> 123m 20s
+that's all it takes is a proxy you put Baltimore of War 1
+
+123m 20s --> 123m 25s
+and one more interface 01 interfaces you get a proxy class to find
+
+123m 30s --> 123m 35s
+um closures in here of that define the
+
+123m 35s --> 123m 40s
+console really care about paint paint the past like I said paint job function now
+
+123m 45s --> 123m 50s
+the function so this this lil between here and there is all Texas
+
+123m 50s --> 123m 55s
+define a drive Java class in closer NFL Blitz
+
+124m 00s --> 124m 05s
+preferred size so do to the new product
+
+124m 05s --> 124m 10s
+is the preferred size the mansion um okay
+
+124m 15s --> 124m 20s
+a friend is making New Jersey frame so also used
+
+124m 20s --> 124m 25s
+Bethany this is a multiple lines do to a new J frame
+
+124m 30s --> 124m 35s
+cool have a call that
+
+124m 35s --> 124m 40s
+babe I just hit up
+
+124m 45s --> 124m 50s
+oh and the end we put on it before
+
+124m 50s --> 124m 55s
+so I am I pregnant
+
+125m 00s --> 125m 05s
+so much fun
+
+125m 05s --> 125m 10s
+like I said so duh
+
+125m 15s --> 125m 20s
+I like that uh now he's a citizen's part right like nothing happened
+
+125m 20s --> 125m 25s
+populated it right with call setup and uh
+
+125m 30s --> 125m 35s
+click at we saw the behavior of function which is the name of apts
+
+125m 35s --> 125m 40s
+of the an agent I want to go to have an animation agency
+
+125m 45s --> 125m 50s
+so what will make an agent for that and it really is a beautiful state for animators is a
+
+125m 50s --> 125m 55s
+McMillan Zaza's releases to perform side effects
+
+126m 00s --> 126m 05s
+now isn't a call re paint and sleep
+
+126m 05s --> 126m 10s
+that's what the animation action and then there's another
+
+126m 15s --> 126m 20s
+operator and his the Nexus Valparaiso Indiana is going to call
+
+126m 20s --> 126m 25s
+map rate and then sleep okay
+
+126m 30s --> 126m 35s
+where is an activity for him where to find the behavior for um
+
+126m 35s --> 126m 40s
+Asian bunch of those so now we see this run
+
+126m 45s --> 126m 50s
+chess a good I forgot to tell you something funny with a load the file um
+
+126m 50s --> 126m 55s
+but I'm not going to what happened uh
+
+127m 00s --> 127m 05s
+going okay which is this is now worth I'd behave
+
+127m 05s --> 127m 10s
+15 Haven
+
+127m 15s --> 127m 20s
+please send an action send off to star is in star
+
+127m 20s --> 127m 25s
+are Asian store is this is a totally running anything
+
+127m 30s --> 127m 35s
+action which means going to be called an agent which means this value of
+
+127m 35s --> 127m 40s
+is it will be down in Assassin's to the agent
+
+127m 45s --> 127m 50s
+the same function do it again the beach
+
+127m 50s --> 127m 55s
+Asian is going to be told to do something and that's when he doesn't
+
+128m 00s --> 128m 05s
+this message in action inside an actual wanted to go off f
+
+128m 05s --> 128m 10s
+is there a change is gonna have a note of this point the code
+
+128m 15s --> 128m 20s
+Big O level is running a stroke similarly
+
+128m 20s --> 128m 25s
+if we now looking for to look at the animation think the same thing
+
+128m 30s --> 128m 35s
+and evaporated of the same thing is going to be in if it looks
+
+128m 35s --> 128m 40s
+open by running okay so far
+
+128m 45s --> 128m 50s
+um wish I didn't talk about the bars get bound thread locally any agencies
+
+128m 50s --> 128m 55s
+find the VAR star asian star the currently executing agent
+
+129m 00s --> 129m 05s
+functions of this state really have access to the reference accept this way
+
+129m 05s --> 129m 10s
+is a nice way to do it because most functions of Asians are really
+
+129m 15s --> 129m 20s
+Pendlay by making the functions of data that supposed to function of references
+
+129m 30s --> 129m 35s
+I'm going to send the evaporator the operation at in in a minute
+
+129m 35s --> 129m 40s
+they're not connected A OK
+
+129m 45s --> 129m 50s
+file to see if I actually got everything so off we remember
+
+129m 50s --> 129m 55s
+don't know if you remember but up at the top we call setup right setup distributive
+
+130m 00s --> 130m 05s
+the FBI agent so I call setup I'd like to try
+
+130m 05s --> 130m 10s
+finance to do that here Sonic call setup
+
+130m 15s --> 130m 20s
+so what the f buy lottery
+
+130m 20s --> 130m 25s
+cool so we have 49 incision
+
+130m 30s --> 130m 35s
+send the animator the action animation rumor actually
+
+130m 35s --> 130m 40s
+ocean the animators an agent recreation before send him
+
+130m 45s --> 130m 50s
+cool is an email um
+
+130m 50s --> 130m 55s
+price of the thread count before whats a
+
+131m 00s --> 131m 05s
+okay so but there was a threat
+
+131m 05s --> 131m 10s
+is a metros running the Saturday silly but um um nothing is changed
+
+131m 15s --> 131m 20s
+run map of lazy so if I said map this function across the answer would
+
+131m 20s --> 131m 25s
+who do the first one but I never confirmed the result none of the other side effects
+
+131m 30s --> 131m 35s
+mapping send off to this and behaves a quickie
+
+131m 35s --> 131m 40s
+of function literal for sending
+
+131m 45s --> 131m 50s
+have 10 so uh
+
+131m 50s --> 131m 55s
+cool Lego um and then we will go
+
+132m 00s --> 132m 05s
+uh uh look here woohoo now we're never stop 6868
+
+132m 05s --> 132m 10s
+um we're using 100 percent CPU which means we are
+
+132m 15s --> 132m 20s
+and there we go infrared remember when they have food
+
+132m 20s --> 132m 25s
+so this rather than from the greens from on build up uh
+
+132m 30s --> 132m 35s
+open for programming in closer no lock
+
+132m 35s --> 132m 40s
+umm some of what's happening here would be extremely difficult
+
+132m 45s --> 132m 50s
+its gotta be consistent view the world but it's a little later
+
+132m 50s --> 132m 55s
+I really think about world the first things live without stopping right
+
+133m 00s --> 133m 05s
+typing jobs running in the background of a chance looking at a set of
+
+133m 05s --> 133m 10s
+set of places make decisions about what to do both sets of
+
+133m 15s --> 133m 20s
+play running women transactions of the constraints of the system's logic
+
+133m 20s --> 133m 25s
+4th so no two at the same place um No
+
+133m 30s --> 133m 35s
+drawing is not in peace by the emotion out of your body about poration
+
+133m 35s --> 133m 40s
+there's 51 thread
+
+133m 50s --> 133m 55s
+echo
+
+134m 00s --> 134m 05s
+are you
+
+134m 05s --> 134m 10s
+pull behind a oh okay so yes
+
+134m 15s --> 134m 20s
+cool uh directions to thread pools in is a system
+
+134m 20s --> 134m 25s
+a1 is um used by the functions send
+
+134m 30s --> 134m 35s
+awesome multiple of huh
+
+134m 35s --> 134m 40s
+that's a multiple of the process was late is the number for us
+
+134m 45s --> 134m 50s
+a red per request and the ideas that
+
+134m 50s --> 134m 55s
+if you had requested my block your back is on my block you can consume your friend
+
+135m 00s --> 135m 05s
+piece of this and throat are sleeping
+
+135m 05s --> 135m 10s
+sleep walking in the right thing to do is use end of Avengers you send off
+
+135m 15s --> 135m 20s
+baller seminar for sale it will be waiting in the Sierras
+
+135m 20s --> 135m 25s
+Fred and get exactly the same behavior um
+
+135m 30s --> 135m 35s
+have locking up aration if you only have a thread for operation
+
+135m 35s --> 135m 40s
+Ticketmaster fishing report most efficient way to what question
+
+135m 45s --> 135m 50s
+you could you know you could use a hug for transactions on
+
+135m 50s --> 135m 55s
+you could also put closure functions into the executor framework a job lot
+
+136m 00s --> 136m 05s
+bob is a pretty high power tools with very of low
+
+136m 05s --> 136m 10s
+overhead view all we did was put think around stuff
+
+136m 15s --> 136m 20s
+restaurants close
+
+136m 30s --> 136m 35s
+player uh
+
+136m 35s --> 136m 40s
+yeah you can find out really what I want to say is a go to closure
+
+136m 45s --> 136m 50s
+babe way we communicate Desire C is also a
+
+136m 50s --> 136m 55s
+blip.tv which is the place where I put screencast like maybe I'll put the
+
+137m 00s --> 137m 05s
+case um about I am doing a series of things like that
+
+137m 05s --> 137m 10s
+again ugh prep all the flies in of America
+
+137m 15s --> 137m 20s
+the right thing after the wiki um with TV with has a bunch
+
+137m 20s --> 137m 25s
+talk to give a non sequences in the other cord is for closers like #### scratch
+
+137m 30s --> 137m 35s
+what lunch time
+
+137m 35s --> 137m 40s
+yes um
+
+137m 45s --> 137m 50s
+yes yes
+
+137m 50s --> 137m 55s
+ok put your does not yet have a distributed of concurrency store
+
+138m 00s --> 138m 05s
+primitive with distribution and the trade-offs associated with that
+
+138m 05s --> 138m 10s
+um it makes it transparent a distribution at least in Mexico
+
+138m 15s --> 138m 20s
+machine and it will work in practice of
+
+138m 20s --> 138m 25s
+there are behavioral differences to moving to the pharmacy which is that if you were sent
+
+138m 30s --> 138m 35s
+under some good papers from Sun I think that are critical of transparent distribution
+
+138m 35s --> 138m 40s
+I have to be sympathetic with those papers um but I think the problem and they were in there
+
+138m 45s --> 138m 50s
+is that all of your failure modes are tell you about the distributor
+
+138m 50s --> 138m 55s
+what are the worst Valley Road they have to go to some of
+
+139m 00s --> 139m 05s
+with a distributed system the other major difference I would say between
+
+139m 05s --> 139m 10s
+actors of upper Lancaster legs really after system
+
+139m 15s --> 139m 20s
+there's no access to after state except by a message send
+
+139m 20s --> 139m 25s
+enough because that's the only thing to distribute a closure agent state is
+
+139m 30s --> 139m 35s
+so the trailer there I find that the ease of use a programming with direct
+
+139m 35s --> 139m 40s
+so that state is worth nothing wishing to the two systems
+
+139m 45s --> 139m 50s
+of messaging system for in process so that's why I didn't closer anticipate
+
+139m 50s --> 139m 55s
+I just ripped a distributed of system for closure
+
+140m 00s --> 140m 05s
+correct it'll be like a fourth I don't know if I'll even feel like
+
+140m 05s --> 140m 10s
+references because it was important maybe easier to um
+
+140m 15s --> 140m 20s
+but that does the trade off so that's why I said the agent on after the third
+
+140m 20s --> 140m 25s
+off and they're strictly not better or worse there their trade offs
+
+140m 35s --> 140m 40s
+huh
+
+140m 50s --> 140m 55s
+well its not the same me to sleep what they do is they
+
+141m 00s --> 141m 05s
+tolerate process is dying and there
+
+141m 05s --> 141m 10s
+Garden that's how they keep running in her life I'm here this will literally kill
+
+141m 15s --> 141m 20s
+is an actor is waiting in the message to put things in it to the painted have
+
+141m 20s --> 141m 25s
+Benson write your loop you gotta love hehehe
+
+141m 30s --> 141m 35s
+I can't right now send a different a new to access to any of these agents
+
+141m 35s --> 141m 40s
+ironic that never knew about it was like a find function that's ok that's a function of the day
+
+141m 45s --> 141m 50s
+then I'm waiting to be told drop food like knows way too cold you'll fall down
+
+141m 50s --> 141m 55s
+forget it over the head sew in simulations I think your building something that knows
+
+142m 00s --> 142m 05s
+the system process of starting with the new function so they have code
+
+142m 05s --> 142m 10s
+bring it into a process regeneration of weather
+
+142m 15s --> 142m 20s
+well I'm not
+
+142m 20s --> 142m 25s
+good graphics
+
+142m 30s --> 142m 35s
+take a note red green blue and purple right
+
+142m 45s --> 142m 50s
+Ohio purple
+
+142m 50s --> 142m 55s
+okay um no problem no problem
+
+143m 00s --> 143m 05s
+is this a while running on buildings instantly you
+
+143m 05s --> 143m 10s
+and is a woman start stop edge rock third state
+
+143m 15s --> 143m 20s
+water line but in all these things are a little disappointed
+
+143m 20s --> 143m 25s
+is about choosing between trade off not right a wrong um so
+
+143m 30s --> 143m 35s
+on the other hand uh I would find it extremely tedious the house
+
+143m 35s --> 143m 40s
+us to wait for messages in order to read state of Asian and
+
+143m 45s --> 143m 50s
+because you have to set up on a sin is a sin I'm waiting for you to reply back to me
+
+143m 50s --> 143m 55s
+go to the nested I'm waiting for a response from from Fred as possible to write
+
+144m 00s --> 144m 05s
+zing strictly for synchronization in order to read somebody's State you don't need that
+
+144m 05s --> 144m 10s
+um so it's a little bit of a different in every way there are
+
+144m 15s --> 144m 20s
+barcode loading chart James B rivers of the running
+
+144m 30s --> 144m 35s
+correct that's one reason why the bars
+
+144m 35s --> 144m 40s
+for a beautiful at the root globally
+
+144m 45s --> 144m 50s
+don't do that that's def
+
+144m 50s --> 144m 55s
+did to do that I cycle def def means a stablished this is the meaning of this
+
+145m 00s --> 145m 05s
+you're not allowed so in programs in message contacts when you want to call cell
+
+145m 05s --> 145m 10s
+you better have a friend looking bunny or without so yes definitely
+
+145m 15s --> 145m 20s
+you catch the right thing with set but def is it is an absolute idea I'm know what I'm doing on
+
+145m 20s --> 145m 25s
+the world of the same for everybody on nm the only real
+
+145m 30s --> 145m 35s
+I'm the happiest something that's terrible like that
+
+145m 35s --> 145m 40s
+as of the rude I've ours on my way
+
+146m 05s --> 146m 10s
+um I would hope not I mean I would really love for Jonathan not change it all in
+
+146m 15s --> 146m 20s
+complex they make my interrupt job more complex um but I
+
+146m 20s --> 146m 25s
+but I do think that cetera fundamental problems with languages like job in that
+
+146m 30s --> 146m 35s
+send a for do the right thing and even then you're like a job
+
+146m 35s --> 146m 40s
+concurrency but if you do that and you don't have like a persistent
+
+146m 45s --> 146m 50s
+the means to copy them off so its a big is a bigger story
+
+146m 50s --> 146m 55s
+and use the closure class library from Java it's a very nice class library
+
+147m 00s --> 147m 05s
+can you can use all the same job
+
+147m 05s --> 147m 10s
+that use all the closer
+
+147m 15s --> 147m 20s
+from: alarm
+
+147m 20s --> 147m 25s
+uh I've been working a closer for a couple years
+
+147m 30s --> 147m 35s
+for 45 of a close are the language ephedra
+
+147m 35s --> 147m 40s
+Genesis mean if it supports the shop for a while it was a compiler
+
+147m 45s --> 147m 50s
+holy over the summer that I decided to us stop supporting
+
+147m 50s --> 147m 55s
+um dot net and try to focus on compilation
+
+148m 00s --> 148m 05s
+print annoyingly different but not appreciably different um but I decided
+
+148m 05s --> 148m 10s
+if I could end it's greatly federated of the completion of closure uh send it up
+
+148m 15s --> 148m 20s
+library so about Bowl I'm completely happy with with worth
+
+148m 20s --> 148m 25s
+but it's a huge amount of work that thing with closure whats the compiler
+
+148m 30s --> 148m 35s
+can close your four in the destruction binding those things are already in closure
+
+148m 35s --> 148m 40s
+add for you could have at it for a system acro destruction is also
+
+148m 45s --> 148m 50s
+a super primitive list what has if set
+
+148m 50s --> 148m 55s
+Oh a deaf and the Lambada fun
+
+149m 00s --> 149m 05s
+the language is written in closer Elizabeth out the old jail
+
+149m 05s --> 149m 10s
+or of a language South construction when is defined condo
+
+149m 15s --> 149m 20s
+but a big part of this class library with huge job persistent destruction
+
+149m 20s --> 149m 25s
+big deal and there a court underpinning
+
+149m 30s --> 149m 35s
+missed because of the list compiler
+
+149m 45s --> 149m 50s
+very fast uh give you should find it faster than
+
+149m 50s --> 149m 55s
+iPhone repair 500 Smith come out and up
+
+150m 00s --> 150m 05s
+puzzle box and closer I'm calling speech vehicle into Java
+
+150m 05s --> 150m 10s
+I mean on my desktop machine I can make a million
+
+150m 15s --> 150m 20s
+real applications assistant instructors are in striking distance of old
+
+150m 20s --> 150m 25s
+Java data structures and that's with a factor of two to
+
+150m 30s --> 150m 35s
+and the hits just try thinking about that was part of the way you would have
+
+150m 35s --> 150m 40s
+you're with cells that you would change in place a lock
+
+150m 45s --> 150m 50s
+this render is snapshot of the world well it couldn't have those cells road
+
+150m 50s --> 150m 55s
+if those map inside the cells really change but they're not writing swapped out
+
+151m 00s --> 151m 05s
+scales up globally to the way you think about running programs
+
+151m 05s --> 151m 10s
+when you know your data can never change of mind if you everything is different
+
+151m 15s --> 151m 20s
+if you don't track your trail is this the causeway and then was the other
+
+151m 20s --> 151m 25s
+things are just think about #### job with a language the ephemeral garbage collection in Java
+
+151m 30s --> 151m 35s
+free offer since the the sequence of operation closer
+
+151m 35s --> 151m 40s
+which is like con Edison abstraction when you use a fax
+
+151m 45s --> 151m 50s
+cheap its just the point about it because it all ends up in a gin
+
+151m 50s --> 151m 55s
+0 uh it's nothing to do you say and and I all the things
+
+152m 00s --> 152m 05s
+code of so I was really good
+
+152m 15s --> 152m 20s
+work with the food around home
+
+152m 20s --> 152m 25s
+yeah I can actually say that they would have been up there be around with
+
+152m 30s --> 152m 35s
+suck bang into each other like the first few times
+
+152m 35s --> 152m 40s
+uh well thank you I really appreciate you
+
+152m 50s --> 152m 55s
+I did a google search and I had 0 hits
+
+153m 00s --> 153m 05s
+gonna have a good logo
+
+153m 05s --> 153m 10s
+it has it alright alright pizza
