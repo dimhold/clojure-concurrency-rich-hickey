@@ -165,3 +165,57 @@ gramma of a charac...
 
 But the LISP 
 but it is not a or scheme...
+
+
+
+
+
+
+
+
+999
+01:00:11.000 --> 01:00:16.340
+So what all you even need is the refernce, that can you change.
+
+1000
+??? This recording change version
+
+1001
+01:00:18.650 --> 01:00:22.000
+So, there ara three types of ???biz reference in clojure
+
+1002
+01:00:24.000 --> 01:00:32.800
+This call vars, and are bar is used actaially to hold global variables and functions
+
+
+1003
+01:00:33.700 --> 01:00:35.300
+So, this a global moution to a bar
+
+1004
+01:00:35.800 --> 01:00:43.000
+In addition vars have abillatiy to be bound to values inside the thread.
+
+1005
+01:00:43.800 --> 01:00:56.000
+And once a bound inside the thread that bounding is independent anothe threads. So I can bind a var call ???dex to a ???value in this thread, I can bind two different value in ???oure thread and this thread can manipulate ???axe complitly independently.
+
+
+1006
+01:00:56.400 --> 01:01:08.000
+Without to ?encry each other. And when you done with a bounding in all rows like a stack and explain ???alibi more. But the primitive vars is a vars for ??isoletive changes with in threads.
+
+
+1007
+01:01:08.400 --> 01:01:16.000
+This thread is only wonna will see what is that a little ???axe. This thread is only wonna see is what is that with ??axe. That what one thing that we need to do in programs.
+
+1008
+01:01:17.000 --> 01:01:35.000
+Another thing that we need to do in programs is most complex case. It's the I need to move ??? this account to that account. And I wonna make the shure it's in one account or the other, never in both and never in none. That is really hard I need to change two things. Need a make a hole change atomic.
+
+
+
+
+
