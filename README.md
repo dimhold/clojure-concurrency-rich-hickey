@@ -14,16 +14,17 @@ clojure-concurrency-rich-hickey
 
 Но рекомендую не качать каждый раз видео и вообще отвязаться от онлайна. Для этого разверните все локально:
 
-`git clone git@github.com:dimhold/clojure-concurrency-rich-hickey.git`
+```
+git clone git@github.com:dimhold/clojure-concurrency-rich-hickey.git
+cd clojure-concurrency-rich-hickey
+wget http://clojureby-webtools.rhcloud.com/concurrency.webm
+```
+Теперь запустите index.html из под вашего любимого веб-сервера.
 
-`cd clojure-concurrency-rich-hickey`
-
-`wget http://clojureby-webtools.rhcloud.com/concurrency.webm`
 
 
-Правда, локально поломается track тэг. 
+Можете запустить index.html как обычный файл, без всякого веб-сервера. Единственный минус: поломается track тэг. 
 Chrome напишет в консоль: Cross-origin text track load denied by Cross-Origin Resource Sharing policy. И откажется показывать субтитры.
-Зато шустро будет работать :)
 
 
 На сегодняшний день [webVTT и track тэг](http://dev.w3.org/html5/webvtt) поддерживают: Chrome, Safari. Частично: IE, Opera. Совсем плохо: Firefox.
