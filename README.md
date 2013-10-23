@@ -51,5 +51,4 @@ cd clojure-concurrency-rich-hickey
 3. Пришлите Pull Request.
 
 
-*Или просто свяжитесь со мной.*
-*Мой email (такой же и xmpp) указан в моем [github профиле](https://github.com/dimhold)*
+*Или просто свяжитесь со мной по [email](mailto:dimhold@gmail.com)*
