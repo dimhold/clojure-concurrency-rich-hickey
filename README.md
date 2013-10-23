@@ -15,29 +15,41 @@ clojure-concurrency-rich-hickey
 |Озвучить видео на русском языке                                   |0%        |
 
 ##Процесс перевода
-Проект доступен [онлайн](http://clojureby-webtools.rhcloud.com/).
+**Проект доступен [онлайн](http://clojureby-webtools.rhcloud.com/)**
 
-Но рекомендую не качать каждый раз видео и вообще отвязаться от онлайна. Для этого разверните все локально:
+---
+
+**Чтобы развернуть все локально:**
+
+* Склонируйте репозиторий:
 
 ```
 git clone git@github.com:dimhold/clojure-concurrency-rich-hickey.git
 cd clojure-concurrency-rich-hickey
-wget http://clojureby-webtools.rhcloud.com/concurrency.webm
 ```
-Теперь запустите index.html из под вашего любимого веб-сервера.
+
+* Скачайте видео:
+
+`wget http://clojureby-webtools.rhcloud.com/concurrency.webm`
 
 
+* Запустите **index.html** из под вашего любимого веб-сервера.
 
-Можете запустить index.html как обычный файл, без всякого веб-сервера. Единственный минус: поломается track тэг. 
-Chrome напишет в консоль: Cross-origin text track load denied by Cross-Origin Resource Sharing policy. И откажется показывать субтитры.
+---
 
+*Cубтитры создаются в формате [webVTT](http://dev.w3.org/html5/webvtt)*
 
-На сегодняшний день [webVTT и track тэг](http://dev.w3.org/html5/webvtt) поддерживают: Chrome, Safari. Частично: IE, Opera. Совсем плохо: Firefox.
 
 
 ##Хочу помочь
 Здорово! Работы много и я буду очень рад если вы поможете.
 
-Вы можете сделать fork проекта. Внесите правки и дополнения (скорее всего это будут *.vtt файлы). А затем прислать Pull Request.
+**Чтобы помочь:**
 
-Или просто свяжитесь со мной. Мой email (такой же и xmpp) указан в моем [github профиле: https://github.com/dimhold](https://github.com/dimhold)
+1. Cделайте fork проекта.
+2. Внесите правки и дополнения (скорее всего это будут *.vtt файлы).
+3. Пришлите Pull Request.
+
+
+*Или просто свяжитесь со мной.*
+*Мой email (такой же и xmpp) указан в моем [github профиле](https://github.com/dimhold)*
